@@ -28,3 +28,15 @@ canonifyurls = true
   hideHUGOSupport = false
   [params.social]
     twitter = "kanteron"
+
+  [[menu.main]]
+    name = "Blog"
+    weight = -120
+    identifier = "blog"
+    url = "https://blogen.kanteron.com"
+
+  [[menu.main]]
+    name = "Website"
+    weight = -110
+    identifier = "web"
+    url = "https://www.kanteron.com"
