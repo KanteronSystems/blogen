@@ -1,12 +1,7 @@
 ---
-id: 2693
-title: 'Microsoft and Kanteron found "AI in Health Partner Alliance" along with 20 other tech companies'
+title: Microsoft and Kanteron found "AI in Health Partner Alliance" along with 20 other tech companies
 date: 2017-01-31T23:14:14+00:00
 author: kanteron
-layout: post
-guid: http://blog.kanteron.com/?p=2693
-permalink: /blog/2017/01/31/microsoft-and-kanteron-found-ai-in-health-partner-alliance-along-with-20-other-tech-companies/
-image: /wp-content/uploads/2017/01/MSF-AI.jpg
 categories:
   - Awards
   - Events
