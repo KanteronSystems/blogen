@@ -5,7 +5,7 @@ tags: ["blog"]
 image: "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: //images.pexels.com/photos/270404/pexels-photo-270404.jpeg
 coverImage: //images.pexels.com/photos/270404/pexels-photo-270404.jpeg
 metaAlignment: center
