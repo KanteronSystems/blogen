@@ -38,7 +38,7 @@ Designed to interoperate with existing clinical enterprise systems (PACS, RIS, E
 
 Kanteron Systems is a privately held Healthcare IT company founded in 2005 that helps healthcare providers manage imaging and genomic data effectively for precision medicine applications at the point of care.
 
-Kanteron Systems' pioneering solutions have already been deployed over 500 times in 12 countries, at some of the world's largest healthcare networks like the American College of Radiology in the USA, the NHS in the UK, Seguridad Social in Spain, ISSSTE in Mexico, or EsSalud in Peru. Learn more about us: www.kanteron.com.
+Kanteron Systems' pioneering solutions have already been deployed over 500 times in 12 countries, at some of the world's largest healthcare networks like the American College of Radiology in the USA, the NHS in the UK, Seguridad Social in Spain, ISSSTE in Mexico, or EsSalud in Peru. Learn more about us: [www.kanteron.com](https://www.kanteron.com).
 
 
 Kanteron Systems is a trademark owned by Kanteron Systems. All other trademarks are the property of their respective owners.
@@ -48,8 +48,11 @@ Contacts
 John Memarian, President & CCO
 Kanteron Systems
 jmemarian@kanteron.com
+----
 
 <a name="footnote1">1</a>: https://obamawhitehouse.archives.gov/the-press-office/2015/01/30/remarks-president-precision-medicine
 
 <a name="footnote2">2</a>: https://www.gartner.com/doc/3525644
 <a name="footnote3">3</a>: http://www.himssanalytics.org/essentials-brief/essentials-brief-2017-precision-medicine-study
+
+----
