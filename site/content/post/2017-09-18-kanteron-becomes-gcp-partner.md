@@ -5,7 +5,7 @@ tags: ["blog", "awards"]
 image: #"http://res.cloudinary.com/jcortell/image/upload/v1505763258/GCP_badge_A_01_1x_wbbp1z.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/jcortell/image/upload/v1505763258/GCP_badge_A_01_1x_wbbp1z.png
 coverImage: #//res.cloudinary.com/jcortell/image/upload/v1505763258/GCP_badge_A_01_1x_wbbp1z.png
 metaAlignment: center
