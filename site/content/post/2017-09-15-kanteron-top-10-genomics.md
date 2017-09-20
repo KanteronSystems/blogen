@@ -6,7 +6,7 @@ image: #"https://www.pharmatechoutlook.com/images/logo.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: //www.pharmatechoutlook.com/images/logo.pngv1505763258/GCP_badge_A_01_1x_wbbp1z.png
+thumbnailImage: //www.pharmatechoutlook.com/images/logo.png
 coverImage: #//www.pharmatechoutlook.com/images/logo.png
 metaAlignment: center
 coverMeta: out
