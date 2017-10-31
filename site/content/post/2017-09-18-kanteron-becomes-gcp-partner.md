@@ -56,3 +56,5 @@ jmemarian@kanteron.com
 <a name="footnote3">3</a>: http://www.himssanalytics.org/essentials-brief/essentials-brief-2017-precision-medicine-study
 
 ----
+
+  
