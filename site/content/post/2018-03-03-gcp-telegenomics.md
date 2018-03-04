@@ -5,7 +5,7 @@ tags: ["media", "kanteron", "news"]
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg
 coverImage: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg
 metaAlignment: center
