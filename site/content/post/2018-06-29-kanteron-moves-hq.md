@@ -21,12 +21,16 @@ That's why we have decided to move our headquarters to a new campus.
 
 {{< alert info >}}
 Our news address:
+
 Kanteron Systems
+
 Parque Científico
+
 Catedrático Agustín Escardino  9
+
 46980 Paterna, Valencia (Spain)
 {{< /alert >}}
 
 We look forward to welcoming you in our new home!
 
-![View from inside complex](http://res.cloudinary.com/jcortell/image/upload/v1530184290/Kanteron/parqueinterior.webp)
+![View from inside complex](http://res.cloudinary.com/jcortell/image/upload/f_png,q_auto:low/v1530184290/Kanteron/parqueinterior.jpg)
