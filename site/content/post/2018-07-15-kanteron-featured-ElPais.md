@@ -17,4 +17,4 @@ El Pais, the general interest newspaper with largest circulation in Spain (and l
 <!--more-->
 The article is not yet available in the online version, so here's the print version in the meantime:
 
-![Kanteron Systems' CEO](hhttp://res.cloudinary.com/jcortell/image/upload/v1531666403/Media/IMG-20180715-WA0000.jpg)
+![El País article](http://res.cloudinary.com/jcortell/image/upload/v1531666403/Media/IMG-20180715-WA0000.jpg)
