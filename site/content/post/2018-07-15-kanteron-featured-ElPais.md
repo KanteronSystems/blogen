@@ -5,7 +5,7 @@ tags: ["kanteron", "news"]
 image: "http://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: http://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg
 coverImage: http://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg
 metaAlignment: center

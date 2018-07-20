@@ -5,7 +5,7 @@ tags: ["events", "kanteron", "news"]
 image: "https://www.vlcsofting.es/sites/default/files/banner/banner2018-v2.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://www.vlcsofting.es/sites/default/files/banner/banner2018-v2.jpg
 coverImage: https://www.vlcsofting.es/sites/default/files/banner/banner2018-v2.jpg
 metaAlignment: center
