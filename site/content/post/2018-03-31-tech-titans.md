@@ -17,3 +17,5 @@ Kanteron Systems has been featured in the annual "The 30 Most Valuable Tech Tita
 <!--more-->
 
 [Insights Success Magazine](https://www.insightssuccess.com/kanteron-systems-transforming-patient-care-better/), a magazine for C level executives in the Enterprise segment and nearly half a million readers, has included Kanteron Systems in their annual special "The 30 Most Valuable Tech Titans 2018", highlighting our *courage and fantastic team*.
+
+<iframe frameborder="0"  width="400" height="300"  title="" src="http://magazines.insightssuccess.com/The-30-Most-Valuable-Tech-Titans-2018-May2018/#page=45" type="text/html" scrolling="no" marginwidth="0" marginheight="0"></iframe>
