@@ -18,4 +18,11 @@ Kanteron Systems confirms it has sent the Board of Directors of [Agfa-Gevaert NV
 
  > "Agfa Healthcare business unit revenues have been stagnant in the last few years. However, a deal with Kanteron would allow Agfa to tap into our leading-edge technology, particularly in Pathology and Genomics, enabling Agfa to take the lead in the new Clinical Information Systems for Precision Medicine market, which is a huge and disruptive long-term growth opportunity” commented Jorge Cortell, Kanteron Systems’ CEO. “Some of Agfa’s largest international distributors have already signed up with Kanteron Systems. It’s time we give the whole Agfa family access to our innovative technology”.
 
+ Industry reactions to the announcement have been very positive. Nadim Michel Daher, Industry Principal (Medical Imaging and Imaging Informatics - Transformational Health) at analyst and consultancy firm Frost & Sullivan commented this about the proposed deal:
+
+ > Very interesting! I do think Agfa would be a good fit, in light of their early-stage digital pathology play and their attempt at broader data management platforms (VNA/ECM).
+
 The communications between the companies are at an early stage, therefore, there is no certainty as to whether, and under which conditions, Kanteron Systems may make a public tender offer to the shareholders of Agfa-Gevaert NV.
+
+Published in:
+[Aunt Minnie](https://www.auntminnie.com/index.aspx?sec=log&URL=https%3a%2f%2fwww.auntminnie.com%2findex.aspx%3fSec%3dsup%26Sub%3dpac%26Pag%3ddis%26ItemId%3d121806)
