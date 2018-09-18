@@ -15,6 +15,6 @@ coverMeta: out
 Mirror Review magazine has chosen Jorge Cortell, CEO of Kanteron Systems, amongst The 30 Most Creative CEOs of 2018.
 
 <!--more-->
-Although the article is not available online yet, here is the printed version:
+The article is [available online here](https://www.mirrorreview.com/jorge-cortell-pioneering-entrepreneur-behind-kanteron-systems/) and the [full list here](https://www.mirrorreview.com/the-30-most-creative-ceos-of-2018/).
 
 ![MirrorReview Article](http://res.cloudinary.com/jcortell/image/upload/v1531667729/MirrorReviewCreativeCEOs.jpg)
