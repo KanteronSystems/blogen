@@ -1,6 +1,6 @@
 ---
 date: 2018-09-10T20:14:57+00:00
-title: UPDATE Kanteron Systems expresses interest in the leveraged buyout of Agfa-Gevaert NV
+title: UPDATE - Kanteron Systems expresses interest in the leveraged buyout of Agfa-Gevaert NV
 tags: ["kanteron", "news"]
 image: "http://res.cloudinary.com/jcortell/image/upload/q_auto:eco/v1536574049/Media/agfa-872395_960_720.jpg"
 comments: true     # set false to hide Disqus comments
@@ -12,7 +12,7 @@ metaAlignment: center
 coverMeta: out
 
 ---
-[THIS POST HAS BEEN UPDATED] Kanteron Systems confirms it has sent the Board of Directors of [Agfa-Gevaert NV](http://www.agfa.com/corporate/) a non-binding indication of interest for the acquisition of all shares in Agfa-Gevaert NV by way of a voluntary conditional public takeover offer of Kanteron Systems to all shareholders of Agfa-Gevaert NV.
+THIS POST HAS BEEN UPDATED 19/09/2018 - Kanteron Systems confirms it has sent the Board of Directors of [Agfa-Gevaert NV](http://www.agfa.com/corporate/) a non-binding indication of interest for the acquisition of all shares in Agfa-Gevaert NV by way of a voluntary conditional public takeover offer of Kanteron Systems to all shareholders of Agfa-Gevaert NV.
 
 <!--more-->
 
