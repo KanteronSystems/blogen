@@ -16,6 +16,8 @@ The first congress on longevity and genomics in Europe will be held November 7 a
 
 <!--more-->
 
+![Jorge Cortell](http://valenciaplaza.com/public/Image/2018/10/NOTICIAJORGECORTELL_NoticiaAmpliada.jpg)
+
  #Longevity18 will bring together genomics and longevity specialists from the scientific community, such as Aubrey de Gray, Director of the SENS Research Foundation, Maria Blasco, Director of the National Center for Oncology Research, Jorge Cortell, Founder and Director of Kanteron Systems, and Pablo Marin, Director of Bioinformatics at Kanteron Systems.
 
 [Full Program](https://www.longevityworldforum.com/programme/)
