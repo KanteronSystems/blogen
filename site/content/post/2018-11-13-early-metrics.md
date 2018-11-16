@@ -5,14 +5,14 @@ tags: ["kanteron", "news", "awards"]
 image: "https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
 coverImage: https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
 metaAlignment: center
 coverMeta: out
 
 ---
-Ratings agency [Early Metrics](http://earlymetrics.com/) rates Kanteron Systems among the top 10% of the over 2,000 tech start-ups rated by them worldwide since 2014.
+Ratings agency [Early Metrics](http://earlymetrics.com/) rates Kanteron Systems among the top 4% of Healthcare Technology, and the top 7% overall (their badge rounds up to 10%) of the over 2,000 tech start-ups rated by them worldwide since 2014.
 
 <!--more-->
 
