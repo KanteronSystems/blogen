@@ -86,18 +86,6 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
   url = "https://twitter.com/kanteron"
 [[menu.links]]
-  weight = 2
-  identifier = "googleplus"
-  name = "Google+"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-google-plus\"></i>"
-  url = "https://plus.google.com/102193154533258755916"
-[[menu.links]]
-  weight = 2
-  identifier = "facebook"
-  name = "Facebook"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook\"></i>"
-  url = "https://www.facebook.com/KanteronSystems"
-[[menu.links]]
   weight = 3
   identifier = "github"
   name = "GitHub"
