@@ -13,7 +13,7 @@ coverMeta: out
 
 ---
 
-Spain's [National Cancer Research Center CNIO](https://www.cnio.es/en/) has invited Kanteron Systems to present at the [European cooperation network in oncology ONCONET-SUDOE](https://www.onconet-sudoe.eu/) Workshop on Innovative IT for healthcare: "The patient journey: Information Technologies focused on the cancer patient" that will take place in the CNIO Auditorium (Madrid), April 3-4, 2019.
+Spain's [National Cancer Research Center CNIO](https://www.cnio.es/en/), the [best in Europe](https://www.cnio.es/noticias/noticias-cnio/el-cnio-lidera-el-ranking-de-centros-de-investigacion-del-cancer-en-europa/) and 4th in the world according to Nature, has invited Kanteron Systems to present at the [European cooperation network in oncology ONCONET-SUDOE](https://www.onconet-sudoe.eu/) [Workshop on Innovative IT for healthcare](https://www.cnio.es/eventos/onconet-sudoe-workshop-on-innovative-it-for-healthcare-the-patient-journey-information-technologies-focused-on-the-cancer-patient/): "The patient journey: Information Technologies focused on the cancer patient" that will take place in the CNIO Auditorium (Madrid), April 3-4, 2019.
 
 <!--more-->
 
