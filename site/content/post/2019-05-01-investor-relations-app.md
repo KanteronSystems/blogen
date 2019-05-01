@@ -2,12 +2,12 @@
 date: 2019-05-01T00:14:57+00:00
 title: New Investor Relations app
 tags: ["kanteron", "investor relations"]
-image: "https://res.cloudinary.com/jcortell/image/upload/v1556739010/Kanteron/InvestorRelationsApp/mockuper_1.png"
+image: "https://res.cloudinary.com/jcortell/image/upload/v1556739007/Kanteron/InvestorRelationsApp/smartmockups_jv5ec1t6.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
 thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1556739008/Kanteron/InvestorRelationsApp/threed_mockup_3.png
-coverImage: https://res.cloudinary.com/jcortell/image/upload/v1556739010/Kanteron/InvestorRelationsApp/mockuper_1.png
+coverImage: https://res.cloudinary.com/jcortell/image/upload/v1556739007/Kanteron/InvestorRelationsApp/smartmockups_jv5ec1t6.jpg
 metaAlignment: center
 coverMeta: out
 
@@ -29,4 +29,4 @@ Some of the features included are:
 * Management directory with contact info
 * Direct in-app chat
 
-![User with app](https://res.cloudinary.com/jcortell/image/upload/v1556739007/Kanteron/InvestorRelationsApp/smartmockups_jv5ec1t6.jpg)
+![User with app](https://res.cloudinary.com/jcortell/image/upload/v1556739010/Kanteron/InvestorRelationsApp/mockuper_1.png)
