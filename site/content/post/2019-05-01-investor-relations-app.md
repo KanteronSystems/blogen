@@ -29,4 +29,4 @@ Some of the features included are:
 * Management directory with contact info
 * Direct in-app chat
 
-![User with app](https://res.cloudinary.com/jcortell/image/upload/v1556739010/Kanteron/InvestorRelationsApp/mockuper_1.png)
+![User with app](https://res.cloudinary.com/jcortell/image/upload/v1556741687/Kanteron/InvestorRelationsApp/mockuper_4.png)
