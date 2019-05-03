@@ -13,7 +13,7 @@ coverMeta: out
 
 ---
 
-After raising $2.3M in its first round of investment, Kanteron Systems launches its own Investors Relations app to manage up to date information exchange.
+After raising $2.3M in a PPL (Profit Participation Loan), Kanteron Systems launches its own Investors Relations app to manage up to date information exchange.
 
 <!--more-->
 
