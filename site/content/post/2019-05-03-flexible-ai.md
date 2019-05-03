@@ -5,7 +5,7 @@ tags: ["kanteron", "product"]
 image: "https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
 coverImage: https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
 metaAlignment: center
@@ -20,7 +20,7 @@ The AI setting allows the user to choose the desired model from the list of all 
 
 ![Choose your own dataset](https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIdataset.png)
 
-Flexible AI is the open source result of a collaboration of the Medical Informatics Laboratory at Queen's University and Surgical Planning Laboratory at Harvard Medical School, which enables deployment of AI models for radiologists' second opinion with the help of AI, while simultaneously providing standard image viewing and reporting schemes.
+Flexible AI is the result of a collaboration of the Medical Informatics Laboratory at Queen's University and Surgical Planning Laboratory at Harvard Medical School, which enables deployment of AI models for radiologists' second opinion with the help of AI, while simultaneously providing standard image viewing and reporting schemes.
 
 We're looking for customers-partners who would like to be pioneers in the application of AI in medical imaging and build their own expertise on a flexible platform that will allow them the freedom to apply this exciting technology to many use cases. Furthermore, we definitely want to work with you if you also want to correlate Pathology imaging and Genomic data with Medical Imaging, in a way that only Kanteron's Platform allows today.
 
