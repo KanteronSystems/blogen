@@ -21,9 +21,7 @@ Kanteron Systems presents its latest R&D development in NGS and CNV analysis app
 
 During the past 6 month Kanteron Systems has been working closely with the University of Cambridge's clinical genomics initiative OpenCB, contributing code and clinical know-how. This software is currently being used by top pharmaceutical companies and large genomics projects like Genome England, where optimized systems that can handle millions of genomes efficiently are needed.
 
-Led by our Director of Bioinformatics, Dr. Pablo Marin along other members of his team and his doctoral candidate mathematician Josemi Juanes from Dr. Javier Chaves' laboratory at the Healthcare Research Institute INCLIVA[^[1]], the new software has been developed in collaboration with OpenCB, MGviz and Seqplexing. E-poster E-P16.03 "PanelMaps: a genome-scale coverage QC and CNV advisor web application".
-
-[^[1]]: Scholarship by Instituto de Salud Carlos III through the project “IFI15/00138” (Co-funded by European Regional Development Fund).
+Led by our Director of Bioinformatics, Dr. Pablo Marin along other members of his team and his doctoral candidate mathematician Josemi Juanes from Dr. Javier Chaves' laboratory at the Healthcare Research Institute INCLIVA[^1], the new software has been developed in collaboration with OpenCB, MGviz and Seqplexing. E-poster E-P16.03 "PanelMaps: a genome-scale coverage QC and CNV advisor web application".
 
 ![Panelmaps1](https://res.cloudinary.com/jcortell/image/upload/v1560869035/Kanteron/Panelmaps1.png)
 
@@ -40,3 +38,5 @@ At Kanteron Systems we're proud of the R&D work our Bioinformatics department is
 ![Panelmaps 3](https://res.cloudinary.com/jcortell/image/upload/v1560869103/Kanteron/Panelmaps3.png)
 
 Great job, team!
+
+[^1]: Scholarship by Instituto de Salud Carlos III through the project “IFI15/00138” (Co-funded by European Regional Development Fund).
