@@ -1,5 +1,5 @@
 ---
-date: 2019-08-11T00:14:57+00:00
+date: 2019-09-10T00:14:57+00:00
 title: Kanteron technology selected by NASA to present at event in Florida
 tags: ["kanteron", "news", "awards"]
 image: "https://www.nianet.org/wp-content/uploads/2019/07/RSVP-NASA-iTech-Ignite-the-Night-Orlando-compressed.jpg"
