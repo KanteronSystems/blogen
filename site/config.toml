@@ -29,7 +29,7 @@ canonifyurls = true
   gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://web.kanteron.com/assets/images/klogo-1-128x128.png"
+  picture = "https://www.kanteron.com/assets/images/klogo-1-128x128.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "kanteron"
 
@@ -139,7 +139,7 @@ canonifyurls = true
   #    large sidebar is swiped on all lower screens
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 4
+  sidebarBehavior = 1
 
   # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
   # There is many free CDN like Cloudinary or you can also use indirectly
@@ -207,10 +207,10 @@ canonifyurls = true
   # icon = "fa-google-plus"
   # url = "https://plus.google.com/share?url=%s"
 
-  [[params.header.rightLink]]
-    class = "open-algolia-search"
-    icon = "search"
-    url = "/#search"
+  # [params.header.rightLink]
+  # class = ""
+  # icon = ""
+  # url = "/#about"
 
   # Customize like of author avatar in sidebar
   [params.sidebar.profile]
