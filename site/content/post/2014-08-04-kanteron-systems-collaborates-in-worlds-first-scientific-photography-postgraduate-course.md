@@ -24,7 +24,7 @@ The course involves 20 teachers selected among the best Spanish and foreign spec
 
 Official Pre-registration link:
   
-<a title="httpss://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual # cod_estudio = 14170" href="httpss://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual%20# cod_estudio = 14170" target="_blank">httpss://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual # cod_estudio = 14170</a>
+<a title="https://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual # cod_estudio = 14170" href="https://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual%20# cod_estudio = 14170" target="_blank">https://portal.uah.es/portal/page/portal/posgrado/posgrados_propios/oferta_actual # cod_estudio = 14170</a>
 
 Detailed information about content, teachers and times:
   

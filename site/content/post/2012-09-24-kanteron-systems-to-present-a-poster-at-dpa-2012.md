@@ -12,7 +12,7 @@ categories:
   - Kanteron News
   - Tradeshows
 ---
-[<img class="aligncenter" src="httpss://digitalpathologyassociation.org/_data/files/_header_news/2_Pathology_Visions.jpg" alt="DPA logo" width="244" height="218" />](httpss://digitalpathologyassociation.org)
+[<img class="aligncenter" src="https://digitalpathologyassociation.org/_data/files/_header_news/2_Pathology_Visions.jpg" alt="DPA logo" width="244" height="218" />](https://digitalpathologyassociation.org)
 
 Kanteron Systems will present the poster “Integrating Open Source Digital Pathology (PACS, LIS, DICOM or non-DICOM, EHR, web...)” at the Digital Pathology Association’s (DPA) annual conference Pathology Visions, being held October 28-31, 2012 at the Hilton Hotel in Baltimore, MD (USA).
 

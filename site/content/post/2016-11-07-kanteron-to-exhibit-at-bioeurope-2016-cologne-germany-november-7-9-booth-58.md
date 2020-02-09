@@ -7,7 +7,7 @@ categories:
   - Kanteron
   - Tradeshows
 ---
-Kanteron Systems is amongst [the 7 high-growth digital health companies](https://gotogrow.london/insight-and-case-studies/bioeurope-meet-the-companies) chosen by [London Mayor’s International Business Programme](https://gotogrow.london/), [MedCity](https://www.medcityhq.com/) and [London and Partners](https://www.londonandpartners.com/), to exhibit at <a href="httpss://ebdgroup.knect365.com/bioeurope/" target="_blank">BioEurope 2016 Cologne</a> (Germany).
+Kanteron Systems is amongst [the 7 high-growth digital health companies](https://gotogrow.london/insight-and-case-studies/bioeurope-meet-the-companies) chosen by [London Mayor’s International Business Programme](https://gotogrow.london/), [MedCity](https://www.medcityhq.com/) and [London and Partners](https://www.londonandpartners.com/), to exhibit at <a href="https://ebdgroup.knect365.com/bioeurope/" target="_blank">BioEurope 2016 Cologne</a> (Germany).
 
 <!--more-->
 

@@ -10,7 +10,7 @@ categories:
   - Kanteron
   - Kanteron News
 ---
-[<img class=" aligncenter" src="httpss://farm6.staticflickr.com/5604/15797089156_17de58feb7_n.jpg" alt="IMG_20141113_131644" width="237" height="320" />](httpss://www.flickr.com/photos/jcortell/15797089156 "IMG_20141113_131644 by Jorge Cortell, on Flickr")
+[<img class=" aligncenter" src="https://farm6.staticflickr.com/5604/15797089156_17de58feb7_n.jpg" alt="IMG_20141113_131644" width="237" height="320" />](https://www.flickr.com/photos/jcortell/15797089156 "IMG_20141113_131644 by Jorge Cortell, on Flickr")
 
 Kanteron Systems has set May as the date to begin operations in London, UK.
 

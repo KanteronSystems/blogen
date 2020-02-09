@@ -14,13 +14,13 @@ categories:
 ---
 Dr. Raminder Singh and Santiago Gala join Kanteron’s team.
 
-<img class="aligncenter" src="httpss://media.licdn.com/media/AAEAAQAAAAAAAAOVAAAAJGFjN2FjNGJlLTdiN2UtNGNjMy1iM2M0LWMzM2E4MTE2NmUyNg.jpg" alt="" width="170" height="170" />
+<img class="aligncenter" src="https://media.licdn.com/media/AAEAAQAAAAAAAAOVAAAAJGFjN2FjNGJlLTdiN2UtNGNjMy1iM2M0LWMzM2E4MTE2NmUyNg.jpg" alt="" width="170" height="170" />
   
 Dr Raminderpal Singh has joined Kanteron Systems as Strategic Advisor.
   
 Dr. Singh was until now Business Development & Strategy Lead at IBM Research-Genomic Medicine. His experience in Venture Capital at 3i Group, as well as his international experience with healthcare organizations in countries like Singapore, UK, and Canada, and with deals and partnerships in USA, China, India, Russia, and Brazil fit perfectly well with Kanteron’s momentum of explosive international growth and exploration of new partnerships and corporate options.
 
-<img class="aligncenter" src="httpss://media.licdn.com/media/p/6/000/24d/0a6/2b4f2b1.jpg" alt="" width="170" height="170" />
+<img class="aligncenter" src="https://media.licdn.com/media/p/6/000/24d/0a6/2b4f2b1.jpg" alt="" width="170" height="170" />
   
 Santiago Gala joins Kanteron as Platform Architect.
   

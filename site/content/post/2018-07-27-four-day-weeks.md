@@ -18,15 +18,15 @@ Kanteron Systems has unanimously decided to implement a four day workweek, from 
 
 There are many studies and articles in favor of the 4-day workday (while being paid for 5, of course):
 
-[The Guardiian "We should all be working a four-day week. Here’s why"](httpss://www.theguardian.com/commentisfree/2017/nov/16/working-four-day-week-hours-labour)
+[The Guardiian "We should all be working a four-day week. Here’s why"](https://www.theguardian.com/commentisfree/2017/nov/16/working-four-day-week-hours-labour)
 
-[Wikipedia "Four-day week"](httpss://en.wikipedia.org/wiki/Four-day_week)
+[Wikipedia "Four-day week"](https://en.wikipedia.org/wiki/Four-day_week)
 
-[Physis.org "Working four-day weeks for five days' pay? Research shows it pays off"](httpss://phys.org/news/2018-07-four-day-weeks-days.html)
+[Physis.org "Working four-day weeks for five days' pay? Research shows it pays off"](https://phys.org/news/2018-07-four-day-weeks-days.html)
 
-[The Independent "The four-day week could transform our lives and our economy"](httpss://www.independent.co.uk/voices/four-day-week-post-work-transform-lives-economy-productivity-a8255621.html)
+[The Independent "The four-day week could transform our lives and our economy"](https://www.independent.co.uk/voices/four-day-week-post-work-transform-lives-economy-productivity-a8255621.html)
 
-[Forbes "Consider The Benefits Of The 4 Day Work Week"](httpss://www.forbes.com/sites/peggydrexler/2014/09/29/consider-the-benefits-of-the-4-day-work-week/#667db08145a2)
+[Forbes "Consider The Benefits Of The 4 Day Work Week"](https://www.forbes.com/sites/peggydrexler/2014/09/29/consider-the-benefits-of-the-4-day-work-week/#667db08145a2)
 
 It is essential to promote a work environment that maximizes work-life balance, which makes us feel fulfilled, free and happy. Both for humanity and ethics, and for being good in the long run for the company and productivity.
 

@@ -2,26 +2,26 @@
 date: 2020-01-23T00:14:57+00:00
 title: Kanteron endorses the Universal Guidelines for Artificial Intelligence
 tags: ["kanteron", "news"]
-image: "httpss://live.staticflickr.com/1801/43267970922_94ebb5b7e6_c.jpg"
+image: "https://live.staticflickr.com/1801/43267970922_94ebb5b7e6_c.jpg"
 comments: true     # set false to hide Disqus comments  
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: httpss://live.staticflickr.com/1801/43267970922_94ebb5b7e6_c.jpg
-coverImage: httpss://live.staticflickr.com/1801/43267970922_94ebb5b7e6_c.jpg
+thumbnailImage: https://live.staticflickr.com/1801/43267970922_94ebb5b7e6_c.jpg
+coverImage: https://live.staticflickr.com/1801/43267970922_94ebb5b7e6_c.jpg
 metaAlignment: center
 coverMeta: out
 
 ---
 
-Kanteron Systems has [endorsed](httpss://thepublicvoice.org/AI-universal-guidelines/endorsement/) the [Universal Guidelines for Artificial Intelligence](httpss://thepublicvoice.org/ai-universal-guidelines/).
+Kanteron Systems has [endorsed](https://thepublicvoice.org/AI-universal-guidelines/endorsement/) the [Universal Guidelines for Artificial Intelligence](https://thepublicvoice.org/ai-universal-guidelines/).
 
 <!--more-->
 
-The Universal Guidelines for Artificial Intelligence is a document created by [the Public Voice coalition](httpss://thepublicvoice.org), which was established in 1996 by the Electronic Privacy Information Center (EPIC) to promote public participation in decisions concerning the future of the Internet.
+The Universal Guidelines for Artificial Intelligence is a document created by [the Public Voice coalition](https://thepublicvoice.org), which was established in 1996 by the Electronic Privacy Information Center (EPIC) to promote public participation in decisions concerning the future of the Internet.
 
-See also [The Madrid Privacy Declaration](httpss://thepublicvoice.org/madrid-declaration/), a substantial document that reaffirms international instruments for privacy protection, identifies new challenges, and call for concrete actions.
+See also [The Madrid Privacy Declaration](https://thepublicvoice.org/madrid-declaration/), a substantial document that reaffirms international instruments for privacy protection, identifies new challenges, and call for concrete actions.
 
-The Universal Guidelines for Artificial Intelligence [full text](httpss://thepublicvoice.org/ai-universal-guidelines/):
+The Universal Guidelines for Artificial Intelligence [full text](https://thepublicvoice.org/ai-universal-guidelines/):
 
 ---
 

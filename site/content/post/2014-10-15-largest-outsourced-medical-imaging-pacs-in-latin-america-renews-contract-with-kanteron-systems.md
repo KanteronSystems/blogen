@@ -13,7 +13,7 @@ categories:
   - Kanteron
   - Kanteron News
 ---
-<img class="aligncenter" src="httpss://farm4.staticflickr.com/3927/15225386118_067eee80d1_m.jpg" alt="EsSalud logo" width="240" height="77" />
+<img class="aligncenter" src="https://farm4.staticflickr.com/3927/15225386118_067eee80d1_m.jpg" alt="EsSalud logo" width="240" height="77" />
 
 On Monday October 6, EsSalud – Social Security Administration of Peru – signed a renewal of services contract (number 4600044350, process number 1499E00031) with Kanteron Systems to continue supporting the largest medical imaging outsourced system in Latin America. This renewal is proof of EsSalud‘s satisfaction with a system they have been using for over 3 years now.
 

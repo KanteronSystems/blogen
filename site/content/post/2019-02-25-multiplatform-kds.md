@@ -2,12 +2,12 @@
 date: 2019-02-25T01:14:57+00:00
 title: New Multiplatform KDS
 tags: ["kanteron", "product"]
-image: "httpss://res.cloudinary.com/jcortell/image/upload/v1551039109/Kanteron/SagitalAxialCoronal.png"
+image: "https://res.cloudinary.com/jcortell/image/upload/v1551039109/Kanteron/SagitalAxialCoronal.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
-thumbnailImage: httpss://res.cloudinary.com/jcortell/image/upload/v1551039109/Kanteron/SagitalAxialCoronal.png
-coverImage: httpss://res.cloudinary.com/jcortell/image/upload/v1551039109/Kanteron/SagitalAxialCoronal.png
+thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1551039109/Kanteron/SagitalAxialCoronal.png
+coverImage: https://res.cloudinary.com/jcortell/image/upload/v1551039109/Kanteron/SagitalAxialCoronal.png
 metaAlignment: center
 coverMeta: out
 
@@ -17,7 +17,7 @@ Kanteron Systems is proud to announce a multi-platform (Windows, Linux and Apple
 
 <!--more-->
 
-<script src="httpss://product-gallery.cloudinary.com/all.js" type="text/javascript">
+<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
 </script>  
 
 <div id="kds-gallery" style="max-width:80%;margin:auto">

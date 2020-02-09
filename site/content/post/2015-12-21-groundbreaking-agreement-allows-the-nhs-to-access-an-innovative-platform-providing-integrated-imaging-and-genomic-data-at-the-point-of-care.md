@@ -28,7 +28,7 @@ Kanteron, alongside selected technology partners IBM, Microsoft and Hitachi Data
 
 Follow us on Twitter
   
-<a href="httpss://twitter.com/kanteron" target="_blank">@kanteron</a>
+<a href="https://twitter.com/kanteron" target="_blank">@kanteron</a>
 
 _About Kanteron Systems_
   

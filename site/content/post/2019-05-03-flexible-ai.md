@@ -2,12 +2,12 @@
 date: 2019-05-01T00:14:57+00:00
 title: Kanteron introduces Flexible AI
 tags: ["kanteron", "product"]
-image: "httpss://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png"
+image: "https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
-thumbnailImage: httpss://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
-coverImage: httpss://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
+thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
+coverImage: https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIcalculation.png
 metaAlignment: center
 coverMeta: out
 
@@ -18,7 +18,7 @@ The AI setting allows the user to choose the desired model from the list of all 
 
 <!--more-->
 
-![Choose your own dataset](httpss://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIdataset.png)
+![Choose your own dataset](https://res.cloudinary.com/jcortell/image/upload/v1556050843/Kanteron/AIdataset.png)
 
 Flexible AI is the result of a collaboration of the Medical Informatics Laboratory at Queen's University and Surgical Planning Laboratory at Harvard Medical School, which enables deployment of AI models for radiologists' second opinion with the help of AI, while simultaneously providing standard image viewing and reporting schemes.
 
@@ -39,7 +39,7 @@ The included model is trained on MRI scans from Radboud University Medical Centr
 T2 scoring /DWI scoring / DCE Scoring for Peripheral Zone (PZ) or Transition Zone (TZ) leading to PI-RADS Overall Scoring- Peripheral Zone (a) and Transition Zone (b).
 
 PI-RADS v2 intends to standardize reporting of mpMRI scans to reduce variability in interpretations and summarize levels of risk/suspicion for clinically significant cancer.
-httpss://www.acr.org/-/media/ACR/Files/RADS/Pi-RADS/PIRADS-V2.pdf
+https://www.acr.org/-/media/ACR/Files/RADS/Pi-RADS/PIRADS-V2.pdf
 Hassanzadeh E, Glazer D, Dunne R, Fennessy F, Harisinghani M, Tempany C. Prostate imaging reporting and data system version 2 (PI-RADS v2): a pictorial review.  Abdominal Radiology. 2016;42(1):278-289. doi:10.1007/s00261-016-0871-z
 
 {{< /alert >}}

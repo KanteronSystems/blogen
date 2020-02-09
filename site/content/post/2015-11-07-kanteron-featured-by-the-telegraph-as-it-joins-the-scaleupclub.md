@@ -19,11 +19,11 @@ Kanteron Systems UK has been selected as a member of the #ScaleUpClub 2015. Th
 
 <blockquote class="twitter-tweet" width="550">
   <p lang="en" dir="ltr">
-    Britain's top tech firms growing 1,000pc a year <a href="httpss://t.co/CZrpi9wPVV">httpss://t.co/CZrpi9wPVV</a> <a href="httpss://t.co/YXS0x3xQKm">pic.twitter.com/YXS0x3xQKm</a>
+    Britain's top tech firms growing 1,000pc a year <a href="https://t.co/CZrpi9wPVV">https://t.co/CZrpi9wPVV</a> <a href="https://t.co/YXS0x3xQKm">pic.twitter.com/YXS0x3xQKm</a>
   </p>
   
   <p>
-    &mdash; Telegraph News (@TelegraphNews) <a href="httpss://twitter.com/TelegraphNews/status/662502091458396161">November 6, 2015</a>
+    &mdash; Telegraph News (@TelegraphNews) <a href="https://twitter.com/TelegraphNews/status/662502091458396161">November 6, 2015</a>
   </p>
 </blockquote>
 

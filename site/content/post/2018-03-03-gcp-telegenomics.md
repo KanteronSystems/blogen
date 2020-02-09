@@ -2,12 +2,12 @@
 date: 2018-03-03T20:14:57+00:00
 title: Tele-Genomics for Precision Medicine on Google Cloud Platform
 tags: ["media", "kanteron", "news"]
-image: "httpss://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: httpss://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg
-coverImage: httpss://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg
+thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg
+coverImage: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chemical_Genomics_Robot.jpg/800px-Chemical_Genomics_Robot.jpg
 metaAlignment: center
 coverMeta: out
 
@@ -20,11 +20,11 @@ Based on medical imaging and clinical genomics, Precision Medicine holds great p
 
 Medical Imaging (now digital medical imaging) has been a standard practice in healthcare workflows for decades now. However, Clinical Genomics is a more recent entrant into care delivery models.  Fueled by dramatic drops in price and time to sequence, clinical genomics has begun to be a more regular component of patient care. This increased demand has led to a shortage of bioinformaticians and genomic counselors, and an increase in clinicians’ cognitive workload.
 
-To address this challenge, Kanteron Systems has introduced Tele-Genomics on [Google Cloud Platform](httpss://www.google.com/cloud/solutions/healthcare-life-sciences/) in  addition to its Precision Medicine Platform.
+To address this challenge, Kanteron Systems has introduced Tele-Genomics on [Google Cloud Platform](https://www.google.com/cloud/solutions/healthcare-life-sciences/) in  addition to its Precision Medicine Platform.
 
-Last year, Kanteron Systems became a [Google Cloud Technology Partner](httpss://cloud.google.com/partners/) to power our Precision Medicine platform, so it was only natural that we decided to leverage Google Cloud Platform to introduce this new remote-diagnosis solution.
+Last year, Kanteron Systems became a [Google Cloud Technology Partner](https://cloud.google.com/partners/) to power our Precision Medicine platform, so it was only natural that we decided to leverage Google Cloud Platform to introduce this new remote-diagnosis solution.
 
-One of the benefits of using Google Cloud’s services is that they can handle massive volumes of information, thanks to fast computing power, scalable storage, and a choice of fully managed SQL and NoSQL databases like Bigtable and Datastore. Google Cloud Platform’s supports [HIPAA compliance](httpss://cloud.google.com/security/compliance/hipaa/). Customers can securely store, analyze and gain insights from health information, without having to worry about the underlying infrastructure.
+One of the benefits of using Google Cloud’s services is that they can handle massive volumes of information, thanks to fast computing power, scalable storage, and a choice of fully managed SQL and NoSQL databases like Bigtable and Datastore. Google Cloud Platform’s supports [HIPAA compliance](https://cloud.google.com/security/compliance/hipaa/). Customers can securely store, analyze and gain insights from health information, without having to worry about the underlying infrastructure.
 Rather than ordering independent 'panels' or individual genomic tests, or having to wait for teams of bioinformaticians to run complicated pipelines and algorithms on the patient's whole genome (or exome) data, Tele-Genomics allows any clinician to set up advanced genomic data analysis using simple search terms.
 
 This in-silico (software defined) targeted enrichment sequencing diagnostic tool searches first for known diagnostic mutations. It also reports, with customizable filters, all the variants of uncertain effect, with possible deleterious or pathologic effects found in the genes of the sequence.

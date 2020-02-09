@@ -11,6 +11,6 @@ categories:
   - Kanteron News
   - Tech
 ---
-![KDS DICOM voice clip plug-in](httpss://farm6.static.flickr.com/5301/5758683210_ed3968b344.jpg)
+![KDS DICOM voice clip plug-in](https://farm6.static.flickr.com/5301/5758683210_ed3968b344.jpg)
 
 Kanteron Systems introduces a new KDS plug-in for recording voice reports directly in DICOM format. Based on NEMA specifications (completely standard and compatible). These recordings are automatically assigned to the corresponding study. Perfectly integrated with KDS, it allows to easily recognize all available audio series. With a simple click, recording can be listened to, modified (given the right permissions) and shared as many times as needed, with other nodes and workstations in the DICOM network, including other KDS and PACS.</div>

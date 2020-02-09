@@ -15,4 +15,4 @@ categories:
 ---
 Kanteron Systems has been selected as one of the participants for this year‘s edition of the Investors Forum, to be held Nov. 6 in Valencia (Spain) as part of the MIT <a title="https://mitef.es/en/" href="https://mitef.es/en/" target="_blank">Enterprise Forum EmTech Spain 2013 Conference</a>.
 
-#invertorsforum [@mitefspain](httpss://twitter.com/mitefspain)
+#invertorsforum [@mitefspain](https://twitter.com/mitefspain)

@@ -2,12 +2,12 @@
 date: 2018-10-07T20:14:57+00:00
 title: Kanteron Systems installs first digital pathology diagnostic system in Mexico
 tags: ["kanteron", "news"]
-image: "httpss://farm4.staticflickr.com/3523/4014436383_5f6fb81432_b.jpg"
+image: "https://farm4.staticflickr.com/3523/4014436383_5f6fb81432_b.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
-thumbnailImage: httpss://farm4.staticflickr.com/3523/4014436383_5f6fb81432_b.jpg
-coverImage: httpss://farm4.staticflickr.com/3523/4014436383_5f6fb81432_b.jpg
+thumbnailImage: https://farm4.staticflickr.com/3523/4014436383_5f6fb81432_b.jpg
+coverImage: https://farm4.staticflickr.com/3523/4014436383_5f6fb81432_b.jpg
 metaAlignment: center
 coverMeta: out
 
@@ -23,10 +23,10 @@ The Cardiology Hospital, Childrens Hospital, Oncology Hospital, and Specialties 
 Providing service to all of them, their Pathology Department has decided to be the pioneer in the country with the digitalization of its complete workflow, which means more than 70,000 slides with pathology samples per year. For this they chose Kanteron Systems, who with their distributor in the country, Reliable, has installed the first diagnostic digital pathology system in Mexico.
 
 Moving from a completely manual and analog system:
-![Manual and analog](httpss://farm2.staticflickr.com/1971/44859043962_f15139a93a_b.jpg)
+![Manual and analog](https://farm2.staticflickr.com/1971/44859043962_f15139a93a_b.jpg)
 
 To a completely digital one:
-![Digital](httpss://farm2.staticflickr.com/1978/44026978115_1a861a5717_b.jpg)
+![Digital](https://farm2.staticflickr.com/1978/44026978115_1a861a5717_b.jpg)
 
 The Kanteron Systems Platform is responsible for processing orders, printing the bar code directly on the slides, creating cases, assigning them to patients and doctors, managing and dicomizing the images produced by a Hamamatsu Nanozoomer S210 scanner, producing the reports and making them available to the entire hospital network, including patients.
 

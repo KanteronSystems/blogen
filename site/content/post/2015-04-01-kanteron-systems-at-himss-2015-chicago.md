@@ -12,7 +12,7 @@ categories:
   - Kanteron News
   - Tradeshows
 ---
-<img class="aligncenter" src="httpss://phynd.com/Blog/Images/himss15.png" alt="HIMSS15 logo" width="400" height="250" />
+<img class="aligncenter" src="https://phynd.com/Blog/Images/himss15.png" alt="HIMSS15 logo" width="400" height="250" />
 
 If you are in Chicago April 12-16, stop by HIMSS 2015 Booth # 2480, Hitachi Data Systems Corporation (HDS), or Booth #1425, IBM, to see Kanteron Systems‘ clinical genomics in action.
 

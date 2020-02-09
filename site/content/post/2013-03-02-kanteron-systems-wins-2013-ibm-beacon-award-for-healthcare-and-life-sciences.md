@@ -13,7 +13,7 @@ categories:
   - Kanteron
   - Kanteron News
 ---
-<figure style="width: 476px" class="wp-caption aligncenter"><img class=" " alt="Award" src="httpss://lh6.googleusercontent.com/-4yzoGzI_NJ0/US2mq3tJS-I/AAAAAAAAJn0/QBpNT-HAUiM/s794/IMG_0373_6594.JPG" width="476" height="356" /><figcaption class="wp-caption-text">Jorge Cortell, CEO of Kanteron Systems, receiving the IBM Beacon Award for Healthcare and Life Sciences from Mike Rhodin (VP IBM Software Solutions Group) in Las Vegas</figcaption></figure> 
+<figure style="width: 476px" class="wp-caption aligncenter"><img class=" " alt="Award" src="https://lh6.googleusercontent.com/-4yzoGzI_NJ0/US2mq3tJS-I/AAAAAAAAJn0/QBpNT-HAUiM/s794/IMG_0373_6594.JPG" width="476" height="356" /><figcaption class="wp-caption-text">Jorge Cortell, CEO of Kanteron Systems, receiving the IBM Beacon Award for Healthcare and Life Sciences from Mike Rhodin (VP IBM Software Solutions Group) in Las Vegas</figcaption></figure> 
 
 IBM Beacon Awards recognize IBM Business Partners for their technical excellence, industry expertise, and innovative solutions.
 
@@ -31,6 +31,6 @@ The Beacon Awards are a vital element of IBM’s Business Partner recognition pr
 
 Mark Hennessy, general manager, IBM Global Business Partners.
 
-<a title="httpss://www-304.ibm.com/partnerworld/wps/servlet/ContentHandler/pw_com_prb_2013_beacon_winners#best_industry_solution_for_healthcare" href="https://www.kanteron.com/blog/entrepreneurship/2012/11/kanteron-systems-named-national-champion-and-through-to-final-round-of-european-business-awards/" target="_blank">More information about the 2013 IBM Beacon Awards</a>, including information about winners and finalists.
+<a title="https://www-304.ibm.com/partnerworld/wps/servlet/ContentHandler/pw_com_prb_2013_beacon_winners#best_industry_solution_for_healthcare" href="https://www.kanteron.com/blog/entrepreneurship/2012/11/kanteron-systems-named-national-champion-and-through-to-final-round-of-european-business-awards/" target="_blank">More information about the 2013 IBM Beacon Awards</a>, including information about winners and finalists.
 
 &nbsp;</p>

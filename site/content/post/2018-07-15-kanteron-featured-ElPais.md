@@ -15,4 +15,4 @@ coverMeta: out
 El Pais, the general interest newspaper with largest circulation in Spain (and largest online Spanish news outlet in the world) features today Kanteron Systems in a full page article.
 
 <!--more-->
-[The article is available online here](httpss://elpais.com/economia/2018/07/13/actualidad/1531474247_894208.html)
+[The article is available online here](https://elpais.com/economia/2018/07/13/actualidad/1531474247_894208.html)

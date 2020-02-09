@@ -14,6 +14,6 @@ categories:
   - People
 format: aside
 ---
-<img class="aligncenter" src="httpss://pbs.twimg.com/media/BpMwSeOIAAAx6sf.jpg" alt="BHI14" width="600" height="450" />
+<img class="aligncenter" src="https://pbs.twimg.com/media/BpMwSeOIAAAx6sf.jpg" alt="BHI14" width="600" height="450" />
 
 Juan Tatay (Kanteron Systems‘ COO) presented Kanteron Systems‘ solutions and vision at the <a title="https://bhi.embs.org/2014/" href="https://bhi.embs.org/2014/" target="_blank">2014 BHI </a>(International Conference on Biomedical and Health Informatics)

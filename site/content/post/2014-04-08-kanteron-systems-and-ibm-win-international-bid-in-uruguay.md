@@ -13,7 +13,7 @@ categories:
   - Kanteron
   - Kanteron News
 ---
-<img class="aligncenter" alt="UR" src="httpss://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/120px-Flag_of_Uruguay.svg.png" width="120" height="80" />
+<img class="aligncenter" alt="UR" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/120px-Flag_of_Uruguay.svg.png" width="120" height="80" />
 
 Kanteron Systems and its partner IBM were notified today by the Uruguayan Government of the awarding of the international bid (ref: E. E. Nº 2014-17-1-0001474, Ent. N° 1098/14) for the supply of a PACS (Picture Archiving and Communication System) for <a title="https://www.asse.com.uy/" href="https://www.asse.com.uy/" target="_blank">ASSE</a> (Public Healthcare System Administration), beating competing offers by General Electric, Carestream, Indra, and Geocom.
 

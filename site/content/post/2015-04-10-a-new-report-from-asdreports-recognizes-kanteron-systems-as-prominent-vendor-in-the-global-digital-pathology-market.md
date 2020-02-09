@@ -12,6 +12,6 @@ categories:
   - Kanteron
   - Kanteron News
 ---
-A <a title="httpss://www.asdreports.com/news-5957/key-players-global-digital-pathology-market-20142018" href="httpss://www.asdreports.com/news-5957/key-players-global-digital-pathology-market-20142018" target="_blank">new report</a> from ASDReports titled "Global Digital Pathology Market 2014-2018" recognizes Kanteron Systems as "Prominent Vendor" in the Global Digital Pathology Market.
+A <a title="https://www.asdreports.com/news-5957/key-players-global-digital-pathology-market-20142018" href="https://www.asdreports.com/news-5957/key-players-global-digital-pathology-market-20142018" target="_blank">new report</a> from ASDReports titled "Global Digital Pathology Market 2014-2018" recognizes Kanteron Systems as "Prominent Vendor" in the Global Digital Pathology Market.
 
 Source: <a title="https://tissuepathology.com/2015/04/08/the-key-players-in-the-global-digital-pathology-market-2014-2018/#axzz3WtbNTQUQ" href="https://tissuepathology.com/2015/04/08/the-key-players-in-the-global-digital-pathology-market-2014-2018/#axzz3WtbNTQUQ" target="_blank">Tissue Pathology Blog</a>

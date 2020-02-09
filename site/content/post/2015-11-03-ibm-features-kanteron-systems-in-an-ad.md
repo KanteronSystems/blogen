@@ -19,6 +19,6 @@ Here is the <a href="https://www-03.ibm.com/press/es/es/pressrelease/48066.wss" 
 
 The ad, featuring Kanteron COO Juan Tatay and Kanteron CIO Alvaro Gonzalez, was filmed in Kanteron‘s offices in Valencia and Madrid (Spain), for the <a href="https://www.businessconnect.es" target="_blank">IBM Business Connect</a> event.
 
-Watch the video <a href="httpss://www.youtube.com/watch?v=oOO2dagH_cU" target="_blank">here</a>:
+Watch the video <a href="https://www.youtube.com/watch?v=oOO2dagH_cU" target="_blank">here</a>:
   
 <span class="embed-youtube" style="text-align:center; display: block;"></span>
