@@ -4,7 +4,7 @@ title: FDA Safety and Innovation Act (FDASIA)
 date: 2012-07-09T18:12:19+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=749
+guid: https://www.kanteron.com/blog/?p=749
 permalink: /blog/2012/07/09/fda-safety-and-innovation-act-fdasia/
 categories:
   - Uncategorized
@@ -13,4 +13,4 @@ Today President Obama signed the FDA Safety and Innovation Act (FDASIA).  This 
 
 This law is the result of more than a year of public input and negotiations with industry representatives and patient and consumer representatives. 
 
-For more information, please see  <a title="http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/Overview/ucm310927.htm" href="http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/Overview/ucm310927.htm" target="_blank">http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/Overview/ucm310927.htm</a>.
+For more information, please see  <a title="https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/Overview/ucm310927.htm" href="https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/Overview/ucm310927.htm" target="_blank">https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/Overview/ucm310927.htm</a>.

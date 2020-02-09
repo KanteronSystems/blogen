@@ -4,7 +4,7 @@ title: 'Kanteron’s DirectTransfer radically transforms medical imaging device 
 date: 2016-02-29T05:06:26+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2408
+guid: https://blog.kanteron.com/?p=2408
 permalink: /blog/2016/02/29/kanterons-directtransfer-radically-transforms-medical-imaging-device-connectivity-no-more-need-for-firewalls-ssl-or-nat/
 image: /wp-content/uploads/2015/06/KanteroniPad.jpg
 categories:

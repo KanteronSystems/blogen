@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS MIGRATES SERVERS
 date: 2008-06-24T16:11:58+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=80
+guid: https://kanteron.com/blog/?p=80
 permalink: /blog/2008/06/24/kanteron-systems-migrates-servers/
 categories:
   - Kanteron News

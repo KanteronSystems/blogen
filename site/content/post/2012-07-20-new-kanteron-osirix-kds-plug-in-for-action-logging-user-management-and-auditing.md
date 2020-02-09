@@ -4,12 +4,12 @@ title: New Kanteron Osirix-KDS plug in for action logging (user management and a
 date: 2012-07-20T16:26:52+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=763
+guid: https://www.kanteron.com/blog/?p=763
 permalink: /blog/2012/07/20/new-kanteron-osirix-kds-plug-in-for-action-logging-user-management-and-auditing/
 categories:
   - Uncategorized
 ---
-<img class="aligncenter" title="User management audit" src="http://farm9.staticflickr.com/8161/7630311500_64a3a28a1e_z.jpg" alt="" width="640" height="168" />
+<img class="aligncenter" title="User management audit" src="https://farm9.staticflickr.com/8161/7630311500_64a3a28a1e_z.jpg" alt="" width="640" height="168" />
 
 Kanteron Systems introduces a new plug-in for Osirix-KDS that allows, with a very simple interface, actions logging (ideal for user management and auditing).
 

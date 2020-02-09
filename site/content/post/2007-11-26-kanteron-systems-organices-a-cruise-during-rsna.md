@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS ORGANICES A CRUISE DURING RSNA
 date: 2007-11-26T16:25:59+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=90
+guid: https://kanteron.com/blog/?p=90
 permalink: /blog/2007/11/26/kanteron-systems-organices-a-cruise-during-rsna/
 categories:
   - Kanteron News

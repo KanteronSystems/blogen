@@ -4,7 +4,7 @@ title: Groundbreaking agreement allows the NHS to access an innovative platform 
 date: 2015-12-21T19:37:05+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2350
+guid: https://blog.kanteron.com/?p=2350
 permalink: /blog/2015/12/21/groundbreaking-agreement-allows-the-nhs-to-access-an-innovative-platform-providing-integrated-imaging-and-genomic-data-at-the-point-of-care/
 image: /wp-content/uploads/2015/07/NHS-England_332x163.jpg
 categories:
@@ -12,7 +12,7 @@ categories:
   - Kanteron
   - Kanteron News
 ---
-<img class=" wp-image-2220 aligncenter" src="http://blog.kanteron.com/wp-content/uploads/2015/07/NHS-England_332x163-300x147.jpg" alt="NHS-England_332x163" width="239" height="117" srcset="http://blog.kanteron.com/wp-content/uploads/2015/07/NHS-England_332x163-300x147.jpg 300w, http://blog.kanteron.com/wp-content/uploads/2015/07/NHS-England_332x163-230x113.jpg 230w, http://blog.kanteron.com/wp-content/uploads/2015/07/NHS-England_332x163.jpg 332w" sizes="(max-width: 239px) 100vw, 239px" />
+<img class=" wp-image-2220 aligncenter" src="https://blog.kanteron.com/wp-content/uploads/2015/07/NHS-England_332x163-300x147.jpg" alt="NHS-England_332x163" width="239" height="117" srcset="https://blog.kanteron.com/wp-content/uploads/2015/07/NHS-England_332x163-300x147.jpg 300w, https://blog.kanteron.com/wp-content/uploads/2015/07/NHS-England_332x163-230x113.jpg 230w, https://blog.kanteron.com/wp-content/uploads/2015/07/NHS-England_332x163.jpg 332w" sizes="(max-width: 239px) 100vw, 239px" />
 
 Healthcare information systems leader Kanteron Systems, in collaboration with the NHS National Health System (NHS) England’s Open Source and Code 4 Health Programmes, has agreed to allow the entire NHS unrestricted access to Kanteron’s medical imaging and genomic data integration platform under the custodianship of an NHS clinically led OpenPACS Code 4 Health community. The agreement was announced at RSNA – the world’s largest gathering of clinical medical imaging professionals – in Chicago (USA).
 
@@ -28,11 +28,11 @@ Kanteron, alongside selected technology partners IBM, Microsoft and Hitachi Data
 
 Follow us on Twitter
   
-<a href="https://twitter.com/kanteron" target="_blank">@kanteron</a>
+<a href="httpss://twitter.com/kanteron" target="_blank">@kanteron</a>
 
 _About Kanteron Systems_
   
-Kanteron Systems is a privately held Healthcare IT – Biomedical Informatics company founded in 2005 that helps healthcare providers and technology vendors manage imaging and genomic data effectively for precision medicine applications at the point of care. With offices in New York (USA), London (UK), Lima (Peru), and European HQ in Valencia (Spain), Kanteron Systems’ solution has already been deployed hundreds of times in countries around the world, at some of the world’s largest healthcare networks. Find out more at: <a href="http://www.kanteron.com" target="_blank">http://www.kanteron.com</a>
+Kanteron Systems is a privately held Healthcare IT – Biomedical Informatics company founded in 2005 that helps healthcare providers and technology vendors manage imaging and genomic data effectively for precision medicine applications at the point of care. With offices in New York (USA), London (UK), Lima (Peru), and European HQ in Valencia (Spain), Kanteron Systems’ solution has already been deployed hundreds of times in countries around the world, at some of the world’s largest healthcare networks. Find out more at: <a href="https://www.kanteron.com" target="_blank">https://www.kanteron.com</a>
   
 Press Contacts:
   

@@ -4,7 +4,7 @@ title: Government could save time, money with open-source NHIN
 date: 2009-11-03T08:41:31+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=28
+guid: https://kanteron.com/blog/?p=28
 permalink: /blog/2009/11/03/govt-could-save-time-money-with-open-source-nhin/
 categories:
   - HealthCare
@@ -19,5 +19,5 @@ categories:
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
-  <span class="Apple-style-span" style="font-family: Georgia, 'Times New Roman', Times, serif;font-size: 16px;line-height: 20px"><a href="http://www.healthimaging.com/index.php?option=com_articles&view=article&id=19353&division=hiit" target="_blank" title="http://www.healthimaging.com/index.php?option=com_articles&view=article&id=19353&division=hiit">More</a></span>.
+  <span class="Apple-style-span" style="font-family: Georgia, 'Times New Roman', Times, serif;font-size: 16px;line-height: 20px"><a href="https://www.healthimaging.com/index.php?option=com_articles&view=article&id=19353&division=hiit" target="_blank" title="https://www.healthimaging.com/index.php?option=com_articles&view=article&id=19353&division=hiit">More</a></span>.
 </p>

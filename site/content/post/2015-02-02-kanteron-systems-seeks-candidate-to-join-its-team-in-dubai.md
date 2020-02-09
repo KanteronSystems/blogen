@@ -4,7 +4,7 @@ title: Kanteron Systems seeks candidate to join Dubai team
 date: 2015-02-02T23:51:54+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=1951
+guid: https://blog.kanteron.com/?p=1951
 permalink: /blog/2015/02/02/kanteron-systems-seeks-candidate-to-join-its-team-in-dubai/
 categories:
   - Kanteron

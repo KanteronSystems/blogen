@@ -2,21 +2,21 @@
 date: 2018-11-13T20:14:57+00:00
 title: Kanteron Systems rated amongst top software startups in the world
 tags: ["kanteron", "news", "awards"]
-image: "https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg"
+image: "httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
-coverImage: https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
+thumbnailImage: httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
+coverImage: httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg
 metaAlignment: center
 coverMeta: out
 
 ---
-Ratings agency [Early Metrics](http://earlymetrics.com/) rates Kanteron Systems among the top 4% of Healthcare Technology, and the top 7% overall (their badge rounds up to 10%) of the over 2,000 tech start-ups rated by them worldwide since 2014.
+Ratings agency [Early Metrics](https://earlymetrics.com/) rates Kanteron Systems among the top 4% of Healthcare Technology, and the top 7% overall (their badge rounds up to 10%) of the over 2,000 tech start-ups rated by them worldwide since 2014.
 
 <!--more-->
 
-![Logo](https://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg)
+![Logo](httpss://res.cloudinary.com/jcortell/image/upload/v1542192640/Media/Oct._top10.jpg)
 
 Launched in 2014 as an independent third party, Early Metrics assesses the growth potential of innovative ventures.
 Their ratings are free for the rated companies: they do not charge any fees to the startups to avoid any conflict of interest.

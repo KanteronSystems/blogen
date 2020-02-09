@@ -4,7 +4,7 @@ title: Kanteron Systems nominated for the 2011 European Business Awards
 date: 2011-02-28T19:11:59+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=372
+guid: https://www.kanteron.com/blog/?p=372
 permalink: /blog/2011/02/28/kanteron-systems-nominated-for-the-2011-european-business-awards/
 categories:
   - Entrepreneurship
@@ -13,7 +13,7 @@ categories:
   - People
   - Uncategorized
 ---
-<img class="aligncenter" title="Award logo" src="http://www.businessawardseurope.com/wp/wp-content/uploads/2011/01/logo-login.gif" alt="" width="310" height="70" />
+<img class="aligncenter" title="Award logo" src="https://www.businessawardseurope.com/wp/wp-content/uploads/2011/01/logo-login.gif" alt="" width="310" height="70" />
 
 We are pleased and honored to announce that Kanteron Systems has been selected for inclusion in the European Business Awards.
 

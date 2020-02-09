@@ -4,7 +4,7 @@ title: Kanteron and Ver2 Digital Medicine Bring Medical Imaging and Genomics Dat
 date: 2015-10-09T20:59:43+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2261
+guid: https://blog.kanteron.com/?p=2261
 permalink: /blog/2015/10/09/kanteron-and-ver2-digital-medicine-bring-medical-imaging-and-genomics-data-integration-to-middle-east-markets/
 image: /wp-content/uploads/2015/10/Ver2Logo.jpeg
 categories:
@@ -24,8 +24,8 @@ Kanteron Systems integrates pharmacogenomics, digital pathology, radiology, bios
 
 **About Kanteron Systems**
   
-Kanteron Systems is a privately held Healthcare IT – Biomedical Informatics company founded in 2005. With offices in New York (USA), London (UK), Lima (Peru), and European HQ in Valencia (Spain), Kanteron Systems’ solution has already been deployed over 500 times in 12 countries, at some of the world’s largest healthcare networks like MD Anderson in the USA, the NHS in the UK, Seguridad Social in Spain, ISSSTE in Mexico, or EsSalud in Peru. For more information please visit: http://www.kanteron.com or send an email to info@kanteron.com.
+Kanteron Systems is a privately held Healthcare IT – Biomedical Informatics company founded in 2005. With offices in New York (USA), London (UK), Lima (Peru), and European HQ in Valencia (Spain), Kanteron Systems’ solution has already been deployed over 500 times in 12 countries, at some of the world’s largest healthcare networks like MD Anderson in the USA, the NHS in the UK, Seguridad Social in Spain, ISSSTE in Mexico, or EsSalud in Peru. For more information please visit: https://www.kanteron.com or send an email to info@kanteron.com.
 
 **About Ver2 Digital Medicine**
   
-Headquartered in Dubai, Ver2 Digital Medicine (Ver2) is solving some of the biggest problems in healthcare globally: a shortage of health workers, the spread of chronic disease, access to quality care, and the need to improve patient safety. Ver2 offers an integrated portfolio of digital services, including teleradiology, telepathology, remote patient monitoring, as well as tele-medical education. By using proven advances in digitalization, connectivity, and cognitive computing, Ver2 partners with “best of breed” providers from around the world to deliver better, more efficient and safer healthcare. For more information, please visit http://ver2digimed.com or view the LinkedIn company page.
+Headquartered in Dubai, Ver2 Digital Medicine (Ver2) is solving some of the biggest problems in healthcare globally: a shortage of health workers, the spread of chronic disease, access to quality care, and the need to improve patient safety. Ver2 offers an integrated portfolio of digital services, including teleradiology, telepathology, remote patient monitoring, as well as tele-medical education. By using proven advances in digitalization, connectivity, and cognitive computing, Ver2 partners with “best of breed” providers from around the world to deliver better, more efficient and safer healthcare. For more information, please visit https://ver2digimed.com or view the LinkedIn company page.

@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS PROFILED AS SUCCESS CASE IN MASTER’S CLASS
 date: 2009-03-19T15:57:28+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=71
+guid: https://kanteron.com/blog/?p=71
 permalink: /blog/2009/03/19/kanteron-systems-profiled-as-success-case-in-masters-class/
 categories:
   - Kanteron News

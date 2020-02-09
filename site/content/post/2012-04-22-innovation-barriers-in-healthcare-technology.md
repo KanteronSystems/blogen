@@ -4,13 +4,13 @@ title: Innovation barriers in healthcare technology
 date: 2012-04-22T16:18:26+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=656
+guid: https://www.kanteron.com/blog/?p=656
 permalink: /blog/2012/04/22/innovation-barriers-in-healthcare-technology/
 categories:
   - HealthCare
   - Tech
 ---
-From a ReadWriteWeb <a title="http://www.readwriteweb.com/archives/moores_law_doesnt_apply_to_healthcare_technology.php" href="http://www.readwriteweb.com/archives/moores_law_doesnt_apply_to_healthcare_technology.php" target="_blank">article</a>:
+From a ReadWriteWeb <a title="https://www.readwriteweb.com/archives/moores_law_doesnt_apply_to_healthcare_technology.php" href="https://www.readwriteweb.com/archives/moores_law_doesnt_apply_to_healthcare_technology.php" target="_blank">article</a>:
 
 > Dr. J. Deane Waldman, Professor of Pediatrics, Pathology & Decision Science at the University of New Mexico said the industry has three disincentives to innovation that will partly suppress the effect of Moore‘s law, including:
 > 

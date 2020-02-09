@@ -4,7 +4,7 @@ title: Updated Kanteron WEB-RIS (optimized for mobile)
 date: 2012-05-08T16:54:26+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=664
+guid: https://www.kanteron.com/blog/?p=664
 permalink: /blog/2012/05/08/updated-kanteron-web-ris-optimized-for-mobile/
 categories:
   - Internet

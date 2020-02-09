@@ -4,11 +4,11 @@ title: KDS helps in intracraneal electrode surgery planning for an OCD patient
 date: 2011-11-11T17:05:32+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=529
+guid: https://www.kanteron.com/blog/?p=529
 permalink: /blog/2011/11/11/kds-helps-in-intracraneal-electrode-surgery-palnning-for-an-ocd-patient/
 enclosure:
   - |
-    http://estaticos.elmundo.es/elmundo/videos/2011/11/03/valencia/1320327655_extras_video.flv
+    https://estaticos.elmundo.es/elmundo/videos/2011/11/03/valencia/1320327655_extras_video.flv
     11676605
     video/x-flv
     
@@ -19,6 +19,6 @@ categories:
 ---
 Dr. Gutierrez, a neurosurgeon in La Fe hospital (Valencia, Spain), uses KDS to plan intracraneal electrode surgery for OCD.
 
-Source: <a title="http://www.elmundo.es/elmundo/2011/11/03/valencia/1320327655.html" href="http://www.elmundo.es/elmundo/2011/11/03/valencia/1320327655.html" target="_blank">El Mundo</a>, <a title="http://www.levante-emv.com/comunitat-valenciana/2011/11/03/electrodos-obsesiones/853724.html" href="http://www.levante-emv.com/comunitat-valenciana/2011/11/03/electrodos-obsesiones/853724.html" target="_blank">Levante</a>
+Source: <a title="https://www.elmundo.es/elmundo/2011/11/03/valencia/1320327655.html" href="https://www.elmundo.es/elmundo/2011/11/03/valencia/1320327655.html" target="_blank">El Mundo</a>, <a title="https://www.levante-emv.com/comunitat-valenciana/2011/11/03/electrodos-obsesiones/853724.html" href="https://www.levante-emv.com/comunitat-valenciana/2011/11/03/electrodos-obsesiones/853724.html" target="_blank">Levante</a>
 
-Video: EFE [KDS in surgery planning](http://estaticos.elmundo.es/elmundo/videos/2011/11/03/valencia/1320327655_extras_video.flv)
+Video: EFE [KDS in surgery planning](https://estaticos.elmundo.es/elmundo/videos/2011/11/03/valencia/1320327655_extras_video.flv)

@@ -4,7 +4,7 @@ title: VALENCIA’S PRO SOCCER TEAM DOCTOR CHOOSES KDS
 date: 2007-05-07T16:29:44+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=94
+guid: https://kanteron.com/blog/?p=94
 permalink: /blog/2007/05/07/valencias-pro-soccer-team-doctor-chooses-kds/
 categories:
   - Kanteron News
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
-  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="http://www.clinicagastaldi.com/images/equipo_peq.jpg" border="0" height="260" width="382" /></span>
+  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="https://www.clinicagastaldi.com/images/equipo_peq.jpg" border="0" height="260" width="382" /></span>
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

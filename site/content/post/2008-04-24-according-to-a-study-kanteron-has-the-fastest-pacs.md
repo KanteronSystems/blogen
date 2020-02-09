@@ -4,7 +4,7 @@ title: ACCORDING TO A STUDY, KANTERON HAS THE FASTEST PACS
 date: 2008-04-24T16:15:00+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=82
+guid: https://kanteron.com/blog/?p=82
 permalink: /blog/2008/04/24/according-to-a-study-kanteron-has-the-fastest-pacs/
 categories:
   - Kanteron News
@@ -22,5 +22,5 @@ categories:
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
-  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="http://farm3.static.flickr.com/2007/2437721655_63fa06854d.jpg?v=0" /></span>
+  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="https://farm3.static.flickr.com/2007/2437721655_63fa06854d.jpg?v=0" /></span>
 </p>

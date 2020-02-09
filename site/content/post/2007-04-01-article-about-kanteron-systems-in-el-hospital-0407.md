@@ -4,7 +4,7 @@ title: ARTICLE ABOUT KANTERON SYSTEMS IN EL HOSPITAL (04/07)
 date: 2007-04-01T16:31:04+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=95
+guid: https://kanteron.com/blog/?p=95
 permalink: /blog/2007/04/01/article-about-kanteron-systems-in-el-hospital-0407/
 categories:
   - Kanteron News

@@ -4,7 +4,7 @@ title: COMMERCIAL MISSIONS
 date: 2008-06-09T16:13:04+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=81
+guid: https://kanteron.com/blog/?p=81
 permalink: /blog/2008/06/09/commercial-missions/
 categories:
   - Kanteron News
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
-  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="http://farm4.static.flickr.com/3142/2700210977_2f6acd9634_m.jpg" /></span>
+  <span style="font-family: Times, 'Times New Roman', Times, serif;font-size: medium" class="Apple-style-span"><img src="https://farm4.static.flickr.com/3142/2700210977_2f6acd9634_m.jpg" /></span>
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

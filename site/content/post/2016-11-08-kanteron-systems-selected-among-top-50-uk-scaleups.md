@@ -9,7 +9,7 @@ categories:
   - Kanteron News
   - Tech
 ---
-In its tenth year, <a href="http://www.svc2uk.com/10th-svc2uk-announces-2016-scale-up-club/">Silicon Valley Comes to the UK (‘SVC2UK’) has invited 50 UK high-growth technology companies</a> to join the 2016 ‘<a href="http://www.svc2uk.com/2016-scale-up-club/">Scale Up Club</a>’. One of those companies is Kanteron Systems.
+In its tenth year, <a href="https://www.svc2uk.com/10th-svc2uk-announces-2016-scale-up-club/">Silicon Valley Comes to the UK (‘SVC2UK’) has invited 50 UK high-growth technology companies</a> to join the 2016 ‘<a href="https://www.svc2uk.com/2016-scale-up-club/">Scale Up Club</a>’. One of those companies is Kanteron Systems.
 
 <!--more-->
 

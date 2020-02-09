@@ -4,7 +4,7 @@ title: Kanteron Systems will develop software for security company Fermax
 date: 2011-10-03T08:06:45+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=504
+guid: https://www.kanteron.com/blog/?p=504
 permalink: /blog/2011/10/03/kanteron-systems-will-develop-software-for-security-company-fermax/
 categories:
   - Kanteron
@@ -15,6 +15,6 @@ categories:
 
 &nbsp;
 
-The international security and residential communications company <a title="http://www.fermax.com/" href="http://www.fermax.com/" target="_blank">Fermax</a> has chosen Kanteron Systems to develop the new access control management software for their fingerprint reader and proximity sensor.
+The international security and residential communications company <a title="https://www.fermax.com/" href="https://www.fermax.com/" target="_blank">Fermax</a> has chosen Kanteron Systems to develop the new access control management software for their fingerprint reader and proximity sensor.
 
 With this contract, Kanteron Systems shows once again the capacity of its programmers to meet development needs of the most demanding software, and opens a new business line in the competitive and challenging world of electronic security.

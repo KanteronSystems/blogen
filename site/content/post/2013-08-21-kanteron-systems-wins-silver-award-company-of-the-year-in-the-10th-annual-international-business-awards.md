@@ -4,14 +4,14 @@ title: Kanteron Systems wins Silver Award Company of the Year in the 10th Annual
 date: 2013-08-21T15:32:23+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=1243
+guid: https://www.kanteron.com/blog/?p=1243
 permalink: /blog/2013/08/21/kanteron-systems-wins-silver-award-company-of-the-year-in-the-10th-annual-international-business-awards/
 image: /wp-content/uploads/2013/08/IBA13_Silver_V.gif
 categories:
   - Kanteron
   - Kanteron News
 ---
-Kanteron Systems was named the winner of a Silver Award in the Company of the Year – Health Products & Services category in the 10th Annual <a title="http://www.stevieawards.com/pubs/iba/awards/408_2913_24120.cfm" href="http://www.stevieawards.com/pubs/iba/awards/408_2913_24120.cfm" target="_blank">International Business Awards</a> today.
+Kanteron Systems was named the winner of a Silver Award in the Company of the Year – Health Products & Services category in the 10th Annual <a title="https://www.stevieawards.com/pubs/iba/awards/408_2913_24120.cfm" href="https://www.stevieawards.com/pubs/iba/awards/408_2913_24120.cfm" target="_blank">International Business Awards</a> today.
 
 More than 3,300 nominations from organizations of all sizes and in virtually every industry were considered in several categories, including Management Team of the Year, Corporate Social Responsibility Program of the Year, among others. Kanteron Systems won (silver) in the Company of the Year for Health Products & Services category.
 

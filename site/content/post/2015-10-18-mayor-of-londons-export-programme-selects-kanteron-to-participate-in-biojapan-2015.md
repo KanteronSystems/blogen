@@ -4,7 +4,7 @@ title: 'Mayor Of London‘s Export Programme selects Kanteron to participate in 
 date: 2015-10-18T01:44:43+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2271
+guid: https://blog.kanteron.com/?p=2271
 permalink: /blog/2015/10/18/mayor-of-londons-export-programme-selects-kanteron-to-participate-in-biojapan-2015/
 image: /wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London.jpg
 categories:
@@ -13,7 +13,7 @@ categories:
   - Kanteron News
   - Tradeshows
 ---
-[<img class="aligncenter wp-image-2272 size-medium" src="http://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-300x169.jpg" alt="Group photo BioJapan with Mayor of London" width="300" height="169" srcset="http://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-300x169.jpg 300w, http://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-1024x576.jpg 1024w, http://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-480x270.jpg 480w, http://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-830x467.jpg 830w, http://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-230x129.jpg 230w, http://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-350x197.jpg 350w" sizes="(max-width: 300px) 100vw, 300px" />](http://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London.jpg)
+[<img class="aligncenter wp-image-2272 size-medium" src="https://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-300x169.jpg" alt="Group photo BioJapan with Mayor of London" width="300" height="169" srcset="https://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-300x169.jpg 300w, https://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-1024x576.jpg 1024w, https://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-480x270.jpg 480w, https://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-830x467.jpg 830w, https://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-230x129.jpg 230w, https://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London-350x197.jpg 350w" sizes="(max-width: 300px) 100vw, 300px" />](https://blog.kanteron.com/wp-content/uploads/2015/10/Group-photo-BioJapan-with-Mayor-of-London.jpg)
 
 The Mayor of London Boris Johnson MP travelled to Yokohama (Japan) with representatives from 8 of the most promising BioTech companies in London to promote UK-Japan collaboration in cell therapy and regenerative medicine at the BioJapan 2015. BioJapan is Asia’s leading biotechnology event, attracting thousands of representatives from some 700 of the world’s leading bioscience companies every year. This year it took place October 14th – 16th at Pacifico Yokohama. Kanteron Systems is amongst this select group, exhibiting at booth C-14, and represented by its CEO Jorge Cortell.
 

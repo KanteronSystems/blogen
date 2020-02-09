@@ -4,7 +4,7 @@ title: Kanteron Systems passes FDA inspection and ISO audit with flying colors
 date: 2015-05-08T12:58:00+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2075
+guid: https://blog.kanteron.com/?p=2075
 permalink: /blog/2015/05/08/kanteron-systems-passes-fda-inspection-and-iso-audit-with-flying-colors/
 image: /wp-content/uploads/2013/06/FDAInspection2013-672x372.jpg
 categories:

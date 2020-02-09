@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS RECEIVES FDA CLEARANCE FOR ITS MULTIMODAL DICOM WORKSTAT
 date: 2008-03-19T16:22:24+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=87
+guid: https://kanteron.com/blog/?p=87
 permalink: /blog/2008/03/19/kanteron-systems-receives-fda-clearance-for-its-multimodal-dicom-workstation-kds/
 categories:
   - Kanteron News

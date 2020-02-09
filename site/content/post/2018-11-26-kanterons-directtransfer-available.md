@@ -2,12 +2,12 @@
 date: 2018-11-26T20:14:57+00:00
 title: Kanteron Systems announces the availability of DirectTransfer. Say goodbye to firewalls, SSL or NAT
 tags: ["kanteron", "product"]
-image: "https://images.unsplash.com/photo-1531765408077-9a1f85f90df1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5552dcbc19e44defbe7327577f0a2835&auto=format&fit=crop&w=1352&q=80"
+image: "httpss://images.unsplash.com/photo-1531765408077-9a1f85f90df1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5552dcbc19e44defbe7327577f0a2835&auto=format&fit=crop&w=1352&q=80"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: https://images.unsplash.com/photo-1531765408077-9a1f85f90df1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5552dcbc19e44defbe7327577f0a2835&auto=format&fit=crop&w=1352&q=80
-coverImage: https://images.unsplash.com/photo-1531765408077-9a1f85f90df1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5552dcbc19e44defbe7327577f0a2835&auto=format&fit=crop&w=1352&q=80
+thumbnailImage: httpss://images.unsplash.com/photo-1531765408077-9a1f85f90df1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5552dcbc19e44defbe7327577f0a2835&auto=format&fit=crop&w=1352&q=80
+coverImage: httpss://images.unsplash.com/photo-1531765408077-9a1f85f90df1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5552dcbc19e44defbe7327577f0a2835&auto=format&fit=crop&w=1352&q=80
 metaAlignment: center
 coverMeta: out
 

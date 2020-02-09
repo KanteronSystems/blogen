@@ -4,7 +4,7 @@ title: Kanteron joins forces with Hitachi Data Systems to advance personalized m
 date: 2015-04-08T23:47:30+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2049
+guid: https://blog.kanteron.com/?p=2049
 permalink: /blog/2015/04/08/kanteron-joins-forces-with-hitachi-data-systems-to-advance-personalized-medicine/
 image: /wp-content/uploads/2014/04/Hitachi.png
 categories:
@@ -51,11 +51,11 @@ categories:
 </p>
 
 <p class="p6">
-  <a title="http://www.hds.com/solutions/industries/healthcare/" href="http://www.hds.com/solutions/industries/healthcare/" target="_blank">http://www.hds.com/solutions/industries/healthcare/</a>
+  <a title="https://www.hds.com/solutions/industries/healthcare/" href="https://www.hds.com/solutions/industries/healthcare/" target="_blank">https://www.hds.com/solutions/industries/healthcare/</a>
 </p>
 
 <p class="p6">
-  <a title="http://www.kanteron.com" href="http://www.kanteron.com" target="_blank">http://www.kanteron.com</a>
+  <a title="https://www.kanteron.com" href="https://www.kanteron.com" target="_blank">https://www.kanteron.com</a>
 </p>
 
 <p class="p6">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p class="p8">
-  Kanteron Systems is a privately held Healthcare IT – Biomedical Informatics company founded in 2005 with an award-winning world-first solution that enables personalize medicine and precise diagnostics in existing hospital enterprise systems by integrating genomics, pharmacogenomics, digital pathology, radiology, biosensors, and analytics into a single unified workflow. With offices in New York (USA), London (UK), Lima (Peru), and European HQ in Valencia (Spain), Kanteron Systems’ solution has already been deployed over 500 times in 12 countries, at some of the world’s largest healthcare networks. Visit us at: <span class="s2">http://www.kanteron.com</span>
+  Kanteron Systems is a privately held Healthcare IT – Biomedical Informatics company founded in 2005 with an award-winning world-first solution that enables personalize medicine and precise diagnostics in existing hospital enterprise systems by integrating genomics, pharmacogenomics, digital pathology, radiology, biosensors, and analytics into a single unified workflow. With offices in New York (USA), London (UK), Lima (Peru), and European HQ in Valencia (Spain), Kanteron Systems’ solution has already been deployed over 500 times in 12 countries, at some of the world’s largest healthcare networks. Visit us at: <span class="s2">https://www.kanteron.com</span>
 </p>
 
 <p class="p8">

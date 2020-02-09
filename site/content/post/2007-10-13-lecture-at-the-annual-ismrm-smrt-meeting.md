@@ -4,7 +4,7 @@ title: 'LECTURE AT THE ANNUAL ISMRM – SMRT MEETING'
 date: 2007-10-13T16:27:00+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=91
+guid: https://kanteron.com/blog/?p=91
 permalink: /blog/2007/10/13/lecture-at-the-annual-ismrm-smrt-meeting/
 categories:
   - Kanteron News

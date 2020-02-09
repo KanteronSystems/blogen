@@ -4,14 +4,14 @@ title: 'Listening to...'
 date: 2011-09-23T11:33:16+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=489
+guid: https://www.kanteron.com/blog/?p=489
 permalink: /blog/2011/09/23/listening-to/
 categories:
   - Fun
 ---
 We like it because it denounces the same issues we fight against: abusive control position, wether from multinationals or governments.
 
-<a href="http://youtu.be/A1AQaXUCboQ" title="http://youtu.be/A1AQaXUCboQ" target="_blank">The Jams: We make the standards</a>
+<a href="https://youtu.be/A1AQaXUCboQ" title="https://youtu.be/A1AQaXUCboQ" target="_blank">The Jams: We make the standards</a>
 
 Oh we make the standards and we make the rules
   

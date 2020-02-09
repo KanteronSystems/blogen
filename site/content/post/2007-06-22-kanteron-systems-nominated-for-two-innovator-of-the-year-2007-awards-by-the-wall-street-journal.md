@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS NOMINATED FOR TWO INNOVATOR OF THE YEAR 2007 AWARDS BY T
 date: 2007-06-22T16:27:50+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=92
+guid: https://kanteron.com/blog/?p=92
 permalink: /blog/2007/06/22/kanteron-systems-nominated-for-two-innovator-of-the-year-2007-awards-by-the-wall-street-journal/
 categories:
   - Kanteron News

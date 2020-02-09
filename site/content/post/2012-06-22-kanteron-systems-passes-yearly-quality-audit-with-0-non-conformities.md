@@ -4,7 +4,7 @@ title: Kanteron Systems passes yearly quality audit with 0 non-conformities
 date: 2012-06-22T19:22:07+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=729
+guid: https://www.kanteron.com/blog/?p=729
 permalink: /blog/2012/06/22/kanteron-systems-passes-yearly-quality-audit-with-0-non-conformities/
 categories:
   - Kanteron

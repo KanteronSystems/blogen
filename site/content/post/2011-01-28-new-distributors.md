@@ -4,7 +4,7 @@ title: New distributors
 date: 2011-01-28T20:15:00+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=311
+guid: https://www.kanteron.com/blog/?p=311
 permalink: /blog/2011/01/28/new-distributors/
 categories:
   - Kanteron

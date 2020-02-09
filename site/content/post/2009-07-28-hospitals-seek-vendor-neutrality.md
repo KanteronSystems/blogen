@@ -4,7 +4,7 @@ title: Hospitals seek vendor neutrality
 date: 2009-07-28T19:15:45+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=22
+guid: https://kanteron.com/blog/?p=22
 permalink: /blog/2009/07/28/hospitals-seek-vendor-neutrality/
 categories:
   - HealthCare

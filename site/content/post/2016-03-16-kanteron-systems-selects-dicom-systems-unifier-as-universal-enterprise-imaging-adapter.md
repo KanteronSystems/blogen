@@ -4,7 +4,7 @@ title: Kanteron Systems Selects Dicom Systems Unifier as Universal Enterprise Im
 date: 2016-03-16T22:43:33+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2419
+guid: https://blog.kanteron.com/?p=2419
 permalink: /blog/2016/03/16/kanteron-systems-selects-dicom-systems-unifier-as-universal-enterprise-imaging-adapter/
 image: /wp-content/uploads/2015/07/Handshake.jpg
 categories:

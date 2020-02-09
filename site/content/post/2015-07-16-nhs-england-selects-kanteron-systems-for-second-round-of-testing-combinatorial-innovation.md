@@ -4,7 +4,7 @@ title: NHS England selects Kanteron Systems for second round of testing combinat
 date: 2015-07-16T12:37:39+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2219
+guid: https://blog.kanteron.com/?p=2219
 permalink: /blog/2015/07/16/nhs-england-selects-kanteron-systems-for-second-round-of-testing-combinatorial-innovation/
 image: /wp-content/uploads/2015/07/NHS-England_332x163.jpg
 categories:

@@ -2,12 +2,12 @@
 date: 2017-07-26T10:24:16-04:00
 title: Kanteron declared innovative company
 tags: ["blog", "awards"]
-image: "http://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png"
+image: "https://www.idi.mineco.gob.es/stfls/MICINN/Innovacion/IMAGENES/LogoPymeInnovadora.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: http://faceon.es/images/noticias/Innovative_SME.jpg
-coverImage: http://faceon.es/images/noticias/Innovative_SME.jpg
+thumbnailImage: https://faceon.es/images/noticias/Innovative_SME.jpg
+coverImage: https://faceon.es/images/noticias/Innovative_SME.jpg
 metaAlignment: center
 coverMeta: out
 ---

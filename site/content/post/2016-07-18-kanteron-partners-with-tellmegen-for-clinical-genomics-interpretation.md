@@ -4,7 +4,7 @@ title: Kanteron Partners with TellMeGen for Clinical Genomics Interpretation
 date: 2016-07-18T15:31:25+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2540
+guid: https://blog.kanteron.com/?p=2540
 permalink: /blog/2016/07/18/kanteron-partners-with-tellmegen-for-clinical-genomics-interpretation/
 image: /wp-content/uploads/2016/07/MARCAtellmegen.png
 categories:
@@ -25,13 +25,13 @@ Clinicians need to translate molecular information and interpretation into actio
 
 “Clinicians want the power and integration of Kanteron’s bleeding-edge platform. Seamless integration between medical imaging and genomic sequencing together with pharmacogenomic insights.  They also want access to genomics interpretation,” said Jorge Cortell, Founder & CEO of Kanteron Systems. “This partnership delivers insights into clinical decision support focused on the point-of-care.”
 
-<img class="size-full wp-image-920 aligncenter" src="http://blog.kanteron.com/wp-content/uploads/2013/03/kanteronsmall.jpeg" alt="kanteronsmall" width="280" height="67" />
+<img class="size-full wp-image-920 aligncenter" src="https://blog.kanteron.com/wp-content/uploads/2013/03/kanteronsmall.jpeg" alt="kanteronsmall" width="280" height="67" />
 
 _About Kanteron Systems_
 
 Kanteron Systems software enables healthcare providers to deliver on the promise of precision medicine today. Leading technology partners (like IBM, Microsoft, Hitachi, or CGI) and healthcare networks in 15 countries are using Kanteron Systems’ platform to integrate medical imaging and clinical genomics. Bringing seamless access to diagnosis, treatment, and outcome tracking at the point of care. Headquartered in Valencia (Spain) with subsidiaries in New York (USA) and London (UK), Kanteron Systems was founded in 2005. For more information, please email media@kanteron.comor visit www.kanteron.com
 
-<img class="aligncenter" src="http://www.tellmegen.com/site/wp-content/uploads/2015/07/logo-tellmegen-en.jpg" alt="TellMeGen logo" width="250" height="162" />
+<img class="aligncenter" src="https://www.tellmegen.com/site/wp-content/uploads/2015/07/logo-tellmegen-en.jpg" alt="TellMeGen logo" width="250" height="162" />
 
 _About TellMeGen_
 

@@ -4,7 +4,7 @@ title: Kanteron programmer’s discover (and fix) bug in SQL MacOSX
 date: 2009-10-17T17:15:20+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=26
+guid: https://kanteron.com/blog/?p=26
 permalink: /blog/2009/10/17/kanteron-programmers-discover-and-fix-bug-in-sql-macosx/
 categories:
   - Kanteron

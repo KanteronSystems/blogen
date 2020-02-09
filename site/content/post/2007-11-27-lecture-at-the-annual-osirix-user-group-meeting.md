@@ -4,7 +4,7 @@ title: LECTURE AT THE ANNUAL OSIRIX USER GROUP MEETING
 date: 2007-11-27T16:24:59+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=89
+guid: https://kanteron.com/blog/?p=89
 permalink: /blog/2007/11/27/lecture-at-the-annual-osirix-user-group-meeting/
 categories:
   - Kanteron News

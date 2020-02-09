@@ -4,7 +4,7 @@ title: 'Kanteron and HistoIndex Announce Collaboration to Expand Digital Patholo
 date: 2013-07-27T21:47:51+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=1214
+guid: https://www.kanteron.com/blog/?p=1214
 permalink: /blog/2013/07/27/kanteron-and-histoindex-announce-collaboration-to-expand-digital-pathology-in-asian-ehr-pacs-markets/
 image: /wp-content/uploads/2013/07/HistoIndex_0.jpg
 categories:
@@ -39,13 +39,13 @@ said Dr Gideon Ho, Co-founder and Chief Executive Officer of HistoIndex.
 > “**Kanteron‘s KMIIS integration with HistoIndex’s Genesis™ allows our customers full-resolution real-time telepathology. and a complete standard record of patient‘s full spectrum of medical images**. With Asia being a strong proponent in this current global change in the management of medical records by going electronic and eventually cloud-based, **HistoIndex is confident that the collaboration between both companies will benefit and change the lives of millions of patients**.”
 
 <p style="text-align: center">
-  About Kanteron Systems (<a title="http://www.kanteron.com" href="http://www.kanteron.com" target="_blank">http://www.kanteron.com</a>)
+  About Kanteron Systems (<a title="https://www.kanteron.com" href="https://www.kanteron.com" target="_blank">https://www.kanteron.com</a>)
 </p>
 
 Kanteron Systems is a leading open-source software company founded in 2005, specializing in medical imaging. Our award-winning technology enables full-resolution real-time telepathology in standard DICOM image format (an industry first), as well as radiology imaging storage and workflow, and healthcare data integration solutions. With offices in New York (USA), Lima (Peru), and Valencia (Spain), Kanteron Systems provides advanced medical imaging software solutions to some of the largest healthcare networks in the world (like the NHS in the UK, ISSSTE in Mexico, and EsSalud in Peru).  
 
 <p style="text-align: center">
-  About HistoIndex (<a title="http://www.histoindex.com" href="http://www.histoindex.com" target="_blank">http://www.histoindex.com</a>)
+  About HistoIndex (<a title="https://www.histoindex.com" href="https://www.histoindex.com" target="_blank">https://www.histoindex.com</a>)
 </p>
 
 HistoIndex is a technology spin-off company from the Agency of Science, Research and Technology (A*Star), Singapore.  The company is involved in the development, manufacture and sales of optical medical imaging equipment worldwide with offices in Singapore (headquarters), Beijing (China) and London (UK) for the diagnosis and treatment of fibrosis and cancer.  Based on revolutionary imaging solutions, its products have opened doors to new medical standards that benefit clinical R&D, speed up pharmaceutical drug and treatment development as well as aiding clinical diagnosis.

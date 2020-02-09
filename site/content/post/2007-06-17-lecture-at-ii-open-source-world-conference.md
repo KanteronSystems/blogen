@@ -4,7 +4,7 @@ title: LECTURE AT II OPEN SOURCE WORLD CONFERENCE
 date: 2007-06-17T16:28:47+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=93
+guid: https://kanteron.com/blog/?p=93
 permalink: /blog/2007/06/17/lecture-at-ii-open-source-world-conference/
 categories:
   - Kanteron News

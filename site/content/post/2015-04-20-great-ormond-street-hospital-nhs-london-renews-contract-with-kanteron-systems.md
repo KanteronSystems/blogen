@@ -4,7 +4,7 @@ title: 'Great Ormond Street Hospital (NHS – London) renews contract with Kante
 date: 2015-04-20T18:23:00+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2066
+guid: https://blog.kanteron.com/?p=2066
 permalink: /blog/2015/04/20/great-ormond-street-hospital-nhs-london-renews-contract-with-kanteron-systems/
 image: /wp-content/uploads/2015/04/logo.png
 categories:
@@ -12,7 +12,7 @@ categories:
   - Kanteron
   - Kanteron News
 ---
-<img class="aligncenter" src="http://www.labs.gosh.nhs.uk/media/487957/nhs_logo_ft.gif" alt="" width="257" height="71" />
+<img class="aligncenter" src="https://www.labs.gosh.nhs.uk/media/487957/nhs_logo_ft.gif" alt="" width="257" height="71" />
 
 Great Ormond Street Hospital (GOSH) for Children, a National Health Service (NHS) Foundation Trust in London, UK, has just renewed their services contract for a Cardiology PACS (Picture Archiving and Communication System) with Kanteron Systems.
 

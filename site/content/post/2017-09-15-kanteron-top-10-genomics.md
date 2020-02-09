@@ -2,7 +2,7 @@
 date: 2017-09-15T18:24:16-04:00
 title: Kanteron Systems in the Top 10 Genomics Solution Providers
 tags: ["blog", "awards"]
-image: #"https://www.pharmatechoutlook.com/images/logo.png"
+image: #"httpss://www.pharmatechoutlook.com/images/logo.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
@@ -32,7 +32,7 @@ The selection process involved the process of nomination by readers and research
 
 “Kanteron Systems has been a leader in this rapidly growing space and creating tremendous buzz”, said Edwin Joseph, Pharma Tech Outlook magazine. 
 
-Tweet this: @kanteron Selected as one of the "Top 10 #Genomics Solution Providers 2017" – http://www.kanteron.com
+Tweet this: @kanteron Selected as one of the "Top 10 #Genomics Solution Providers 2017" – https://www.kanteron.com
 
 Designed to interoperate with existing clinical enterprise systems (PACS, RIS, EMR, LIMS, etc), Kanteron Systems solution automates the provisioning and management of a complete Precision Medicine Platform that guarantees high availability in multiple clouds, all while reducing license footprint and related infrastructure costs.
 
@@ -40,7 +40,7 @@ Designed to interoperate with existing clinical enterprise systems (PACS, RIS, E
 
 Kanteron Systems is a privately held Healthcare IT company founded in 2005 that helps healthcare providers manage imaging and genomic data effectively for precision medicine applications at the point of care.
 
-Kanteron Systems' pioneering solutions have already been deployed over 500 times in 12 countries, at some of the world's largest healthcare networks like the American College of Radiology in the USA, the NHS in the UK, Seguridad Social in Spain, ISSSTE in Mexico, or EsSalud in Peru. Learn more about us: [www.kanteron.com](https://www.kanteron.com).
+Kanteron Systems' pioneering solutions have already been deployed over 500 times in 12 countries, at some of the world's largest healthcare networks like the American College of Radiology in the USA, the NHS in the UK, Seguridad Social in Spain, ISSSTE in Mexico, or EsSalud in Peru. Learn more about us: [www.kanteron.com](httpss://www.kanteron.com).
 
 
 Kanteron Systems is a trademark owned by Kanteron Systems. All other trademarks are the property of their respective owners.

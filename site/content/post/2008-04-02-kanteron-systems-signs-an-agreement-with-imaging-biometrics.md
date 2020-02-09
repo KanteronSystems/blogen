@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS SIGNS AN AGREEMENT WITH IMAGING BIOMETRICS
 date: 2008-04-02T16:21:29+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=86
+guid: https://kanteron.com/blog/?p=86
 permalink: /blog/2008/04/02/kanteron-systems-signs-an-agreement-with-imaging-biometrics/
 categories:
   - Kanteron News

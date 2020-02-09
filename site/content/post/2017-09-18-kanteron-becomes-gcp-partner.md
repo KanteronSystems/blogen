@@ -2,7 +2,7 @@
 date: 2017-09-18T10:24:16-04:00
 title: Kanteron Systems becomes Google Cloud Platform Technology Partner for Precision Medicine
 tags: ["blog", "awards"]
-image: #"http://res.cloudinary.com/jcortell/image/upload/v1505763258/GCP_badge_A_01_1x_wbbp1z.png"
+image: #"https://res.cloudinary.com/jcortell/image/upload/v1505763258/GCP_badge_A_01_1x_wbbp1z.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: left
@@ -26,7 +26,7 @@ According to analyst firm Gartner, by 2021 approximately 25% of HDOs with more t
 
 “The combination of Kanteron Systems’ pioneering technology and Google Cloud Platform frees hospital IT teams from the overhead of managing growing infrastructure or manually integrating patient data and test results,” said Jorge Cortell, Founder & CEO of Kanteron Systems. “Kanteron Systems on Google Cloud Platform allows clinicians to focus on delivering the best care with our unique built-in security, advanced care coordination and collaboration, ease, and speed.” 
 
-Tweet this: @kanteron becomes @Google_Cloud Platform Strategic Technology Partner for #PrecisionMedicine – http://www.kanteron.com
+Tweet this: @kanteron becomes @Google_Cloud Platform Strategic Technology Partner for #PrecisionMedicine – https://www.kanteron.com
 
 “We are particularly excited about the tremendous potential of Kanteron Systems’ clinical and imaging data handling capabilities, combined with Google’s Artificial Intelligence and Cloud offerings,” said John Memarian, Kanteron Systems President and Chief Commercial Officer “which will allow the accelerated development of new healthcare applications on top of it”.
 
@@ -38,7 +38,7 @@ Designed to interoperate with existing clinical enterprise systems (PACS, RIS, E
 
 Kanteron Systems is a privately held Healthcare IT company founded in 2005 that helps healthcare providers manage imaging and genomic data effectively for precision medicine applications at the point of care.
 
-Kanteron Systems' pioneering solutions have already been deployed over 500 times in 12 countries, at some of the world's largest healthcare networks like the American College of Radiology in the USA, the NHS in the UK, Seguridad Social in Spain, ISSSTE in Mexico, or EsSalud in Peru. Learn more about us: [www.kanteron.com](https://www.kanteron.com).
+Kanteron Systems' pioneering solutions have already been deployed over 500 times in 12 countries, at some of the world's largest healthcare networks like the American College of Radiology in the USA, the NHS in the UK, Seguridad Social in Spain, ISSSTE in Mexico, or EsSalud in Peru. Learn more about us: [www.kanteron.com](httpss://www.kanteron.com).
 
 
 Kanteron Systems is a trademark owned by Kanteron Systems. All other trademarks are the property of their respective owners.
@@ -50,10 +50,10 @@ Kanteron Systems
 jmemarian@kanteron.com
 ----
 
-<a name="footnote1">1</a>: https://obamawhitehouse.archives.gov/the-press-office/2015/01/30/remarks-president-precision-medicine
+<a name="footnote1">1</a>: httpss://obamawhitehouse.archives.gov/the-press-office/2015/01/30/remarks-president-precision-medicine
 
-<a name="footnote2">2</a>: https://www.gartner.com/doc/3525644
-<a name="footnote3">3</a>: http://www.himssanalytics.org/essentials-brief/essentials-brief-2017-precision-medicine-study
+<a name="footnote2">2</a>: httpss://www.gartner.com/doc/3525644
+<a name="footnote3">3</a>: https://www.himssanalytics.org/essentials-brief/essentials-brief-2017-precision-medicine-study
 
 ----
 

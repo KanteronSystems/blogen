@@ -4,7 +4,7 @@ title: Hello world! (again)
 date: 2009-01-24T01:17:19+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=1
+guid: https://kanteron.com/blog/?p=1
 permalink: /blog/2009/01/24/hello-world-2/
 categories:
   - Internet

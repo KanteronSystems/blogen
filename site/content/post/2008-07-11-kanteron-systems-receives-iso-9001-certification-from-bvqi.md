@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS RECEIVES ISO 9001 CERTIFICATION FROM BVQI
 date: 2008-07-11T16:09:59+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=79
+guid: https://kanteron.com/blog/?p=79
 permalink: /blog/2008/07/11/kanteron-systems-receives-iso-9001-certification-from-bvqi/
 categories:
   - Kanteron News

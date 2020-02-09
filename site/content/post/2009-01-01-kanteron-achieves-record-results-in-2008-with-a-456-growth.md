@@ -4,7 +4,7 @@ title: 'KANTERON ACHIEVES RECORD RESULTS IN 2008 WITH A 456% GROWTH'
 date: 2009-01-01T15:59:30+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=73
+guid: https://kanteron.com/blog/?p=73
 permalink: /blog/2009/01/01/kanteron-achieves-record-results-in-2008-with-a-456-growth/
 categories:
   - Kanteron News

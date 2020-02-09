@@ -4,7 +4,7 @@ title: KANTERON APPROVES A CAPITAL INCREASE
 date: 2009-02-10T15:58:38+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=72
+guid: https://kanteron.com/blog/?p=72
 permalink: /blog/2009/02/10/kanteron-approves-a-capital-increase/
 categories:
   - Kanteron News

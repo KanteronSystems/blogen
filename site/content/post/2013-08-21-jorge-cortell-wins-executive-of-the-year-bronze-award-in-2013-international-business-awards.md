@@ -4,7 +4,7 @@ title: Jorge Cortell wins Executive of the Year Bronze Award in 2013 Internation
 date: 2013-08-21T14:07:39+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=1240
+guid: https://www.kanteron.com/blog/?p=1240
 permalink: /blog/2013/08/21/jorge-cortell-wins-executive-of-the-year-bronze-award-in-2013-international-business-awards/
 image: /wp-content/uploads/2013/08/IBA13_Bronze_V.gif
 categories:
@@ -13,7 +13,7 @@ categories:
   - Kanteron News
   - People
 ---
-Jorge Cortell, Kanteron Systems Founder & CEO, was named the winner of a Bronze Award in the Executive of the Year – Health Products & Services category in the 10th Annual <a title="http://www.stevieawards.com/pubs/iba/awards/408_2913_24126.cfm" href="http://www.stevieawards.com/pubs/iba/awards/408_2913_24126.cfm" target="_blank">International Business Awards</a> today.
+Jorge Cortell, Kanteron Systems Founder & CEO, was named the winner of a Bronze Award in the Executive of the Year – Health Products & Services category in the 10th Annual <a title="https://www.stevieawards.com/pubs/iba/awards/408_2913_24126.cfm" href="https://www.stevieawards.com/pubs/iba/awards/408_2913_24126.cfm" target="_blank">International Business Awards</a> today.
 
 More than 3,300 nominations from organizations of all sizes and in virtually every industry were considered in several categories, including Management Team of the Year, Corporate Social Responsibility Program of the Year, among others. Jorge Cortell won (bronze) in the Executive of the Year for Health Products & Services category.
 

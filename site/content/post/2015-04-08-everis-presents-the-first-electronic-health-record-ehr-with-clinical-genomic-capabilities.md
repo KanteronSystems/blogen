@@ -4,7 +4,7 @@ title: 'everis presents the first Electronic Health Record (EHR) with Kanteron�
 date: 2015-04-08T23:43:33+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2047
+guid: https://blog.kanteron.com/?p=2047
 permalink: /blog/2015/04/08/everis-presents-the-first-electronic-health-record-ehr-with-clinical-genomic-capabilities/
 image: /wp-content/uploads/2015/03/logo_everis_BW.png
 categories:
@@ -39,9 +39,9 @@ TMIS is fully interoperable with ehCOS, a suite of world class eHealth products 
 
 Web Resources:
   
-<a title="www.ehcos.com" href="http://www.ehcos.com" target="_blank">www.ehcos.com</a>
+<a title="www.ehcos.com" href="https://www.ehcos.com" target="_blank">www.ehcos.com</a>
   
-<a title="www.kanteron.com" href="http://www.kanteron.com" target="_blank">www.kanteron.com</a>
+<a title="www.kanteron.com" href="https://www.kanteron.com" target="_blank">www.kanteron.com</a>
 
 Follow us on Twitter:
   
@@ -61,7 +61,7 @@ ehCOS is a suite of world class eHealth products developed by everis. ehCOS CLI
 
 **About Kanteron Systems**
 
-Kanteron Systems is a privately held Healthcare IT – Biomedical Informatics company founded in 2005 with an award-winning world-first solution that enables personalize medicine and precise diagnostics in existing hospital enterprise systems by integrating genomics, pharmacogenomics, digital pathology, radiology, biosensors, and analytics into a single unified workflow. With offices in New York (USA), London (UK), Lima (Peru), and European HQ in Valencia (Spain), Kanteron Systems’ solution has already been deployed over 500 times in 12 countries, at some of the world’s largest healthcare networks. Visit us at: http://www.kanteron.com
+Kanteron Systems is a privately held Healthcare IT – Biomedical Informatics company founded in 2005 with an award-winning world-first solution that enables personalize medicine and precise diagnostics in existing hospital enterprise systems by integrating genomics, pharmacogenomics, digital pathology, radiology, biosensors, and analytics into a single unified workflow. With offices in New York (USA), London (UK), Lima (Peru), and European HQ in Valencia (Spain), Kanteron Systems’ solution has already been deployed over 500 times in 12 countries, at some of the world’s largest healthcare networks. Visit us at: https://www.kanteron.com
   
 **Press Contacts:**
 

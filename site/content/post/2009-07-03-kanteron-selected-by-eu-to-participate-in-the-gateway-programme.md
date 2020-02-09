@@ -4,7 +4,7 @@ title: KANTERON SELECTED BY EU TO PARTICIPATE IN THE GATEWAY PROGRAMME
 date: 2009-07-03T15:53:45+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=68
+guid: https://kanteron.com/blog/?p=68
 permalink: /blog/2009/07/03/kanteron-selected-by-eu-to-participate-in-the-gateway-programme/
 categories:
   - Kanteron News

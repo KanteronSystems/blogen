@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS MOVES ITS HEADQUARTERS
 date: 2008-02-01T16:23:26+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=88
+guid: https://kanteron.com/blog/?p=88
 permalink: /blog/2008/02/01/kanteron-systems-moves-its-headquarters/
 categories:
   - Kanteron News

@@ -4,7 +4,7 @@ title: Kanteron Systems increases stock capital by issuing new stock
 date: 2014-01-01T17:25:34+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=1370
+guid: https://www.kanteron.com/blog/?p=1370
 permalink: /blog/2014/01/01/kanteron-systems-increases-stock-capital-by-issuing-new-stock/
 categories:
   - Entrepreneurship

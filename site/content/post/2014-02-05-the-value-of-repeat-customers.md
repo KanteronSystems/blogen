@@ -4,7 +4,7 @@ title: The value of repeat customers
 date: 2014-02-05T23:20:43+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=1413
+guid: https://www.kanteron.com/blog/?p=1413
 permalink: /blog/2014/02/05/the-value-of-repeat-customers/
 image: /wp-content/uploads/2013/03/AD3-672x372.jpg
 categories:

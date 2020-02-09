@@ -4,7 +4,7 @@ title: Kanteron Systems to supply technology behind Deployable Mobile Hospitals
 date: 2015-02-12T01:10:05+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=1978
+guid: https://blog.kanteron.com/?p=1978
 permalink: /blog/2015/02/12/kanteron-systems-to-supply-technology-behind-deployable-mobile-hospitals/
 categories:
   - Customers

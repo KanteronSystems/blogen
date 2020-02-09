@@ -4,7 +4,7 @@ title: Kanteron receives the Integrity in Supplier Relationships certification b
 date: 2012-05-04T17:50:49+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=659
+guid: https://www.kanteron.com/blog/?p=659
 permalink: /blog/2012/05/04/kanteron-receives-the-integrity-in-supplier-relationships-certification-by-ibm/
 categories:
   - Kanteron

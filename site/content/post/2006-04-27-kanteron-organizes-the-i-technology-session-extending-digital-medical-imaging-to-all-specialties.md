@@ -4,7 +4,7 @@ title: KANTERON ORGANIZES THE I TECHNOLOGY SESSION “EXTENDING DIGITAL MEDICAL 
 date: 2006-04-27T16:37:51+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=100
+guid: https://kanteron.com/blog/?p=100
 permalink: /blog/2006/04/27/kanteron-organizes-the-i-technology-session-extending-digital-medical-imaging-to-all-specialties/
 categories:
   - Kanteron News

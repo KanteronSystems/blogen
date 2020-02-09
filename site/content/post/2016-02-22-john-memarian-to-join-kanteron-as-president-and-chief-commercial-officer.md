@@ -4,7 +4,7 @@ title: John Memarian to Join Kanteron as President and Chief Commercial Officer
 date: 2016-02-22T15:03:08+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2393
+guid: https://blog.kanteron.com/?p=2393
 permalink: /blog/2016/02/22/john-memarian-to-join-kanteron-as-president-and-chief-commercial-officer/
 image: /wp-content/uploads/2015/07/Handshake.jpg
 categories:

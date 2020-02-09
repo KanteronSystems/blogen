@@ -13,6 +13,6 @@ metaAlignment: center
 coverMeta: out
 ---
 
-[ITMS](http://www.itms.cl/) Chile, the largest international telemedicine network in South America, has chosen Kanteron Systems as their new platform to handle thousands of studies per day of medical imaging, reporting, and collaboration.
+[ITMS](https://www.itms.cl/) Chile, the largest international telemedicine network in South America, has chosen Kanteron Systems as their new platform to handle thousands of studies per day of medical imaging, reporting, and collaboration.
 
-<img class="aligncenter size-medium" src="http://www.itms.cl/imagens/hp/es-es/Banner06.jpg" alt="" width="540" height="229" />
+<img class="aligncenter size-medium" src="https://www.itms.cl/imagens/hp/es-es/Banner06.jpg" alt="" width="540" height="229" />

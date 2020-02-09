@@ -4,7 +4,7 @@ title: KANTERON AMONG THE TOP 3 IN THE WORLD
 date: 2009-07-15T11:41:35+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=67
+guid: https://kanteron.com/blog/?p=67
 permalink: /blog/2009/07/15/kanteron-among-the-top-3-in-the-world/
 categories:
   - Kanteron News

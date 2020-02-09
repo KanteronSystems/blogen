@@ -4,7 +4,7 @@ title: 'The Report “Valencia: Healthcare Innovation and Research” Features K
 date: 2015-12-01T19:49:03+00:00
 author: kanteron
 layout: post
-guid: http://blog.kanteron.com/?p=2333
+guid: https://blog.kanteron.com/?p=2333
 permalink: /blog/2015/12/01/the-report-valencia-healthcare-innovation-and-research-features-kanteron-as-a-success-case/
 image: /wp-content/uploads/2015/12/Screen-Shot-2015-12-01-at-19.48.59.png
 categories:
@@ -13,7 +13,7 @@ categories:
   - Kanteron
   - Kanteron News
 ---
-InnDEA Valencia Foundation, through the VIT Salud Innovation Network, released yesterday the report “<a href="http://valenciabusinesscity.com/files/2015/11/Inndea_VITSalud_27112015_def.pdf" target="_blank">Valencia: Healthcare Innovation and Research</a>”, produced by the Valencian Institute of Economic Research (IVIE).
+InnDEA Valencia Foundation, through the VIT Salud Innovation Network, released yesterday the report “<a href="https://valenciabusinesscity.com/files/2015/11/Inndea_VITSalud_27112015_def.pdf" target="_blank">Valencia: Healthcare Innovation and Research</a>”, produced by the Valencian Institute of Economic Research (IVIE).
 
 Javier Quesada, author of the report, is an IVIE researcher and Professor of Economic Analysis at Valencia University (UV). The report highlights that the healthcare economic activity in the city has grown “much faster” than the rest of the economic activity and it represents 5,3% of all economic activity in the city.
 

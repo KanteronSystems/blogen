@@ -4,7 +4,7 @@ title: KANTERON SYSTEMS INTRODUCES KDS AT THE II INTERNATIONAL SYMPOSIUM “DIGI
 date: 2006-10-18T16:36:01+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=99
+guid: https://kanteron.com/blog/?p=99
 permalink: /blog/2006/10/18/kanteron-systems-introduces-kds-at-the-ii-international-symposium-digital-image-in-radiology-and-its-surroundings/
 categories:
   - Kanteron News

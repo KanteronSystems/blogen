@@ -4,7 +4,7 @@ title: DoD agents raid Siemens Healthcare offices
 date: 2009-04-22T22:30:19+00:00
 author: kanteron
 layout: post
-guid: http://kanteron.com/blog/?p=7
+guid: https://kanteron.com/blog/?p=7
 permalink: /blog/2009/04/22/dod-agents-raid-siemens-healthcare-offices/
 categories:
   - HealthCare
@@ -12,7 +12,7 @@ categories:
 <span style="font-family: Helvetica;font-size: 12px;line-height: normal" class="Apple-style-span"></span>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">
-  Source: <a href="http://www.healthimaging.com/index.php?option=com_articles&view=article&id=17187" title="http://www.healthimaging.com/index.php?option=com_articles&view=article&id=17187" target="_blank">http://www.healthimaging.com/index.php?option=com_articles&view=article&id=17187</a>
+  Source: <a href="https://www.healthimaging.com/index.php?option=com_articles&view=article&id=17187" title="https://www.healthimaging.com/index.php?option=com_articles&view=article&id=17187" target="_blank">https://www.healthimaging.com/index.php?option=com_articles&view=article&id=17187</a>
 </p>
 
 <p style="font: normal normal normal 12px/normal Helvetica;margin: 0px">

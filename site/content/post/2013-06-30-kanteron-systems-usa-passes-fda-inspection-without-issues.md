@@ -4,7 +4,7 @@ title: Kanteron Systems USA passes FDA inspection without issues
 date: 2013-06-30T21:49:37+00:00
 author: kanteron
 layout: post
-guid: http://www.kanteron.com/blog/?p=1186
+guid: https://www.kanteron.com/blog/?p=1186
 permalink: /blog/2013/06/30/kanteron-systems-usa-passes-fda-inspection-without-issues/
 image: /wp-content/uploads/2013/06/FDAInspection2013-672x372.jpg
 categories:
