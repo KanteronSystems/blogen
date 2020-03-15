@@ -6,7 +6,7 @@ image: "https://lh3.googleusercontent.com/XAzAkG-YT2jcsJiXbRnm88-q4JrLLWrRkwMiYT
 comments: true     # set false to hide Disqus comments  
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: hhttps://lh3.googleusercontent.com/XAzAkG-YT2jcsJiXbRnm88-q4JrLLWrRkwMiYTNv7-Ri73ZU0aPqb9sleeZMIZQcS4EjioPHWwcisB7THlh0EsXex7bMpHjerc9hdNVzosYKScbh4KoVjfiiTxTxGvWFl7X5uwdPCcQ=w1920-h1080
+thumbnailImage: https://lh3.googleusercontent.com/XEDbryKUXTIlIeALGhY2mh-g05I3blIMLUdfuDc9Dusiac6-9v3i_g4FKQesNY2VQzOY_2v63nPpbLW4ry0395izFlzqLtMPiWvouErnrMPW4BIwblQCSJBxdT6JA21o6z1vLmf8_YY
 coverImage: https://lh3.googleusercontent.com/XAzAkG-YT2jcsJiXbRnm88-q4JrLLWrRkwMiYTNv7-Ri73ZU0aPqb9sleeZMIZQcS4EjioPHWwcisB7THlh0EsXex7bMpHjerc9hdNVzosYKScbh4KoVjfiiTxTxGvWFl7X5uwdPCcQ=w1920-h1080
 metaAlignment: center
 coverMeta: out
