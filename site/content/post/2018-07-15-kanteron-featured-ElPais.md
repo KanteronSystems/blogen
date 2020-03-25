@@ -2,12 +2,12 @@
 date: 2018-07-15T20:14:57+00:00
 title: Kanteron Systems featured full page in largest circulation newspaper in Spain
 tags: ["kanteron", "news"]
-image: "https://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg"
+image: "https://www.lacristalera.com/wp-content/uploads/2011/09/El-Pais-Logo-300x300.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: https://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg
-coverImage: https://res.cloudinary.com/jcortell/image/upload/v1531666403/ElPais20180715.jpg
+thumbnailImage: https://www.lacristalera.com/wp-content/uploads/2011/09/El-Pais-Logo-300x300.jpg
+coverImage: https://www.lacristalera.com/wp-content/uploads/2011/09/El-Pais-Logo-300x300.jpg
 metaAlignment: center
 coverMeta: out
 

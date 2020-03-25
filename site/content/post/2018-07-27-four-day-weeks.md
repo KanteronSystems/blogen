@@ -2,12 +2,12 @@
 date: 2018-07-27T20:14:57+00:00
 title: Kanteron implements four day workweek
 tags: ["kanteron", "news"]
-image: "https://images.humanresourcesonline.net.s3.amazonaws.com/wp-content/uploads/2018/02/Bridgette_02_20_2018_28-hour-work-week_istock.jpg"
+image: "https://pbs.twimg.com/profile_images/1235599788084736000/8EQPihyP_400x400.png"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
 thumbnailImagePosition: right
-thumbnailImage: https://images.humanresourcesonline.net.s3.amazonaws.com/wp-content/uploads/2018/02/Bridgette_02_20_2018_28-hour-work-week_istock.jpg
-coverImage: https://images.humanresourcesonline.net.s3.amazonaws.com/wp-content/uploads/2018/02/Bridgette_02_20_2018_28-hour-work-week_istock.jpg
+thumbnailImage: https://pbs.twimg.com/profile_images/1235599788084736000/8EQPihyP_400x400.png
+coverImage: https://pbs.twimg.com/profile_images/1235599788084736000/8EQPihyP_400x400.png
 metaAlignment: center
 coverMeta: out
 
