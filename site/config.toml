@@ -67,8 +67,8 @@ canonifyurls = true
 
 [[menu.links]]
   weight = 1
-  identifier = "spanish"
-  name = "Spanish"
+  identifier = "es"
+  name = "Español"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-flag-o\"></i>"
   url = "https://bloges.kanteron.com"
 [[menu.links]]
