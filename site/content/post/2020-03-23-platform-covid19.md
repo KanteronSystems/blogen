@@ -27,6 +27,7 @@ Applications:
 - Faster and more accurate diagnosis: It gives healthcare institutions the needed flexibility to use one or many diagnosis methods (PCR, Ultrasound, XRays, CT Scans, Pathology...), and integrate the results with the patient's medical record.
 - Scale: With asynchronous and remote interconnected systems, care (from diagnosis to treatment and follow up) can be provided remotely, thus maximizing both geographical coverage and availability of scarce resources.
 - Real-time population health and epidemiology reporting: Once this data is integrated both at a workflow level and at a patient level, it can then form part of larger population health and epidemiologic alert systems for an efficient processing of infectious disease events.
+- Genomics and pharmacogenomics (in development): as more is known about the virus, how it affects different patients according to their DNA, and how they react to prescribed medications, it is possible to analyze what risk factor and response to treatment each person may have.
 
 More details here: [Data integration and processing of COVID-19 Infectious Disease events](https://figshare.com/articles/Data_integration_and_processing_of_COVID-19_Infectious_Disease_events/11988129).
 
@@ -41,6 +42,8 @@ Dr. Jordi Serrano-Pons, Geneva (Switzerland): Innovation Adviser at World Health
 Francisco Cervero (Singapore): Global Health Consultant at World Health Organization; Health Systems, Policy & Economics Researcher at National University of Singapore.
 
 Kanteron's Platform is already installed in some of the largest healthcare systems in the world, and we've started to receive reports that it is making a real difference. For further inquiries please [contact us using the form at the bottom of our web home page](https://www.kanteron.com/).
+
+It has also been featured in Catalyst Health 2.0 [Health Tech Responds to COVID-19 website](https://www.covid19healthtech.com/companies/kanteron-systems).
 
 Thank you for the relentless hard work, Kanteron team! 💪
 
