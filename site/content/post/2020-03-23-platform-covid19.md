@@ -41,7 +41,7 @@ Dr. Jordi Serrano-Pons, Geneva (Switzerland): Innovation Adviser at World Health
 
 Francisco Cervero (Singapore): Global Health Consultant at World Health Organization; Health Systems, Policy & Economics Researcher at National University of Singapore.
 
-Kanteron's Platform is already installed in some of the largest healthcare systems in the world, and we've started to receive reports that it is making a real difference. For further inquiries please [contact us using the form at the bottom of our web home page](https://www.kanteron.com/).
+Kanteron's Platform is already installed in some of the largest healthcare systems in the world, and we've started to receive reports that it is making a real difference. For further inquiries please [contact us using the form at the bottom of our web home page](https://www.kanteron.com/#CONTACT).
 
 It has also been featured in Catalyst Health 2.0 [Health Tech Responds to COVID-19 website](https://www.covid19healthtech.com/companies/kanteron-systems).
 
