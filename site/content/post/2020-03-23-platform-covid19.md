@@ -21,6 +21,10 @@ After [offering our technology to the EU on March 11th](https://blog.kanteron.co
 
 Kanteron Systems has adapted its platform, which integrates medical imaging (PACS-RIS), digital pathology (WSI), clinical genomics (PCR and NGS data analysis workflows). It also creates automatic technical reports for precision medicine with fully integrated QC and LIMS procedures. All this patient-centric data can be easily integrated in HIS/EMR systems and use HL7 standard protocols.
 
+[Data integration and interoperability is crucial](https://arstechnica.com/tech-policy/2020/04/how-hospital-it-challenges-are-holding-back-covid-19-testing-efforts/) in events like this pandemic:
+
+> A [Nature investigation](https://www.nature.com/articles/d41586-020-01068-3) has revealed that a number of academic labs capable of performing COVID-19 tests are operating well below capacity. Nature's reporting suggests that incompatible IT systems are significant reasons for this mismatch.
+
 Applications:
 
 - Increased prevention: It allows some healthcare workers to work remotely (teleradiology, telepathology, and telegenomics), preventing contagions and unnecessary reduction of needed healthcare personnel.
@@ -41,7 +45,7 @@ Dr. Jordi Serrano-Pons, Geneva (Switzerland): Innovation Adviser at World Health
 
 Francisco Cervero (Singapore): Global Health Consultant at World Health Organization; Health Systems, Policy & Economics Researcher at National University of Singapore.
 
-Kanteron's Platform is already installed in some of the largest healthcare systems in the world, and we've started to receive reports that it is making a real difference. For further inquiries please [contact us using the form at the bottom of our web home page](https://www.kanteron.com/#CONTACT).
+Kanteron's Platform is already installed in some of the largest healthcare systems in the world, and we've started to receive reports that it is making a real difference, for example as [featured in AmericaTV](https://www.americatv.com.pe/noticias/actualidad/como-ataca-coronavirus-pulmones-y-que-dano-causa-pacientes-n410305). For further inquiries please [contact us using the form at the bottom of our web home page](https://www.kanteron.com/#CONTACT).
 
 It has also been featured in Catalyst Health 2.0 [Health Tech Responds to COVID-19 website](https://www.covid19healthtech.com/companies/kanteron-systems).
 
