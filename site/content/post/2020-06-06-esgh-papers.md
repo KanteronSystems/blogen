@@ -13,7 +13,7 @@ coverMeta: out
 
 ---
 
-Kanteron Systems Bioinformatics department, in collaboration with scientists from several institutions will present 2 papers at the European Society of Human Genetics ([ESHG20](https://2020.eshg.org/)) annual meeting to be held in Berlin, Germany, June 06–09, 2020.
+Kanteron Systems Bioinformatics department, in collaboration with scientists from several institutions presents 2 papers at the European Society of Human Genetics [ESHG20](https://2020.eshg.org/) annual meeting which was to be held in Berlin (Germany) but was moved online due to CoViD19, June 06–09, 2020.
 
 <!--more-->
 
