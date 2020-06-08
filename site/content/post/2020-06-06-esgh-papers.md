@@ -19,7 +19,7 @@ Kanteron Systems Bioinformatics department, in collaboration with scientists fro
 
 ![ESHG](https://upload.wikimedia.org/wikipedia/commons/a/a3/Westend_CityCube_Berlin.JPG)
 
-Led by Dr. Pablo Marin, along other members of his team like mathmatician Josemi Juanes Ph.D. (c), data scientist Pedro Pons, and bioinformatician Rodiel Martinez, the 2 scientific papers to be presented at ESHG20 will be:
+Led by Dr. Pablo Marin, along other members of his team like mathematician Josemi Juanes Ph.D. (c), data scientist Pedro Pons, and bioinformatician Rodiel Martinez, the 2 scientific papers to be presented at ESHG20 will be:
 
 * MGvizCNV: Machine Learning layer for CNV QC and evidence score recalibration
 * PanelMaps: a decision support system web application for clinical CNA evaluation
