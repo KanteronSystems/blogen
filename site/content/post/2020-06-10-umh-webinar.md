@@ -1,5 +1,5 @@
 ---
-date: 2020-06-06T00:14:57+00:00
+date: 2020-06-10T00:14:57+00:00
 title: Kanteron Systems to deliver webinar on AI in Healthcare organized by UMH
 tags: ["kanteron", "events"]
 image: "https://parquecientificoumh.es/sites/default/files/desayunos/160620%20-%20Desayuno%20tics%20sector%20salud.jpg"
