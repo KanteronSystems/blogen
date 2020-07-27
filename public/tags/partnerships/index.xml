@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>partnerships on Kanteron Systems Blog</title>
+    <link>https://blog.kanteron.com/tags/partnerships/</link>
+    <description>Recent content in partnerships on Kanteron Systems Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 01:14:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.kanteron.com/tags/partnerships/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kanteron solution in Azure Marketplace and AppSource</title>
+      <link>https://blog.kanteron.com/2019/03/kanteron-solution-in-azure-marketplace-and-appsource/</link>
+      <pubDate>Mon, 11 Mar 2019 01:14:57 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2019/03/kanteron-solution-in-azure-marketplace-and-appsource/</guid>
+      <description>&lt;p&gt;Kanteron Systems announces the publication and general availability of Kanteron&amp;rsquo;s Precision Medicine solution (including Radiology PACS-RIS, Digital Pathology, Genomics and Pharmacogenomics modules) in Microsoft&amp;rsquo;s Azure Marketplace and AppSource.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

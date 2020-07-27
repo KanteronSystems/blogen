@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>partners on Kanteron Systems Blog</title>
+    <link>https://blog.kanteron.com/tags/partners/</link>
+    <description>Recent content in partners on Kanteron Systems Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Oct 2017 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.kanteron.com/tags/partners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In ASHG Microsoft highlights Kanteron Systems as best solution for clinical data integration</title>
+      <link>https://blog.kanteron.com/2017/10/in-ashg-microsoft-highlights-kanteron-systems-as-best-solution-for-clinical-data-integration/</link>
+      <pubDate>Wed, 18 Oct 2017 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.kanteron.com/2017/10/in-ashg-microsoft-highlights-kanteron-systems-as-best-solution-for-clinical-data-integration/</guid>
+      <description>&lt;p&gt;During the &lt;a href=&#34;https://www.ashg.org/2017meeting/&#34;&gt;American Society of Human Genetics 2017&lt;/a&gt; meeting, Microsoft highlights Kanteron Systems as best solution for clinical data integration.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

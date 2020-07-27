@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Kanteron Systems Blog</title>
+    <link>https://blog.kanteron.com/categories/products/</link>
+    <description>Recent content in Products on Kanteron Systems Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Aug 2016 18:51:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.kanteron.com/categories/products/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>15 UK NHS hospitals choose Kanteron in less than a month</title>
+      <link>https://blog.kanteron.com/2016/08/15-uk-nhs-hospitals-choose-kanteron-in-less-than-a-month/</link>
+      <pubDate>Fri, 05 Aug 2016 18:51:07 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2016/08/15-uk-nhs-hospitals-choose-kanteron-in-less-than-a-month/</guid>
+      <description>In less than a month, 15 Hospital Trusts from the UK‘s National Health Service (NHS) have chosen Kanteron Systems‘ platform (TMIS) to integrate medical imaging and clinical genomics.
+Only weeks after the general availability of Kanteron Systems source code for the NHS was announced, the following NHS Trusts have already joined the group of TMIS users around the world:
+ North Bristol Trust Liverpool Heart &amp;amp; Chest Hospital NHS FT University Hospital of South Manchester Guy’s and St Thomas’ NHS Foundation Trust Newcastle upon Tyne Hospitals Addenbrooke’s Hospital | Cambridge University Hospitals NHS Greater Glasgow and Clyde University of Bradford Plymouth Hospitals NHS Trust The Royal Marsden Lancashire Care NHS Foundation Trust NHS Forth Valley Portsmouth Hospitals NHS Trust Salford Royal North Cumbria University Hospital NHS Trust UCLH – University College London Hospitals  Note: Previously, Great Ormond Street Hospital (GOSH) was already a customer of Kanteron Systems.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Partners with TellMeGen for Clinical Genomics Interpretation</title>
+      <link>https://blog.kanteron.com/2016/07/kanteron-partners-with-tellmegen-for-clinical-genomics-interpretation/</link>
+      <pubDate>Mon, 18 Jul 2016 15:31:25 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2016/07/kanteron-partners-with-tellmegen-for-clinical-genomics-interpretation/</guid>
+      <description>Turn-key Solution to Provide Clinical Genomic Interpretation on Leading Precision Medicine Data Platform
+LONDON (UK) – VALENCIA (Spain), July 18, 2016 —
+Kanteron Systems, the leading provider of medical imaging and clinical genomics software for precision medicine, and TellMeGen, a leading provider of genomic interpretation, announce a partnership to make TellMeGen’s clinical interpretation available to hospitals through the Kanteron platform.
+Clinicians need to translate molecular information and interpretation into actionable therapeutic strategies.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems Selects Dicom Systems Unifier as Universal Enterprise Imaging Adapter</title>
+      <link>https://blog.kanteron.com/2016/03/kanteron-systems-selects-dicom-systems-unifier-as-universal-enterprise-imaging-adapter/</link>
+      <pubDate>Wed, 16 Mar 2016 22:43:33 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2016/03/kanteron-systems-selects-dicom-systems-unifier-as-universal-enterprise-imaging-adapter/</guid>
+      <description>Campbell, CA, March 16, 2016 – Dicom Systems, Inc., an Enterprise Imaging interoperability expert, announced today its partnership with Kanteron Systems, Inc. (USA, Spain, and UK). This partnership will deliver more comprehensive, real-time patient information to specialists, enabling improved correlation of clinical data and medical imaging within one, consolidated visual context.
+Kanteron Systems, the leading aggregator of Genomics, Pathology and Radiology imaging and data for multi-discipline clinical specialists, has selected Dicom Systems and its Enterprise Imaging Workflow Unifier as a universal adapter to seamlessly integrate its clinical data management solutions within any healthcare enterprise environment.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron’s DirectTransfer radically transforms medical imaging device connectivity: no more need for firewalls, SSL or NAT</title>
+      <link>https://blog.kanteron.com/2016/02/kanterons-directtransfer-radically-transforms-medical-imaging-device-connectivity-no-more-need-for-firewalls-ssl-or-nat/</link>
+      <pubDate>Mon, 29 Feb 2016 05:06:26 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2016/02/kanterons-directtransfer-radically-transforms-medical-imaging-device-connectivity-no-more-need-for-firewalls-ssl-or-nat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>everis presents the first Electronic Health Record (EHR) with Kanteron‘s clinical genomic capabilities</title>
+      <link>https://blog.kanteron.com/2015/04/everis-presents-the-first-electronic-health-record-ehr-with-kanterons-clinical-genomic-capabilities/</link>
+      <pubDate>Wed, 08 Apr 2015 23:43:33 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2015/04/everis-presents-the-first-electronic-health-record-ehr-with-kanterons-clinical-genomic-capabilities/</guid>
+      <description>• Precision Medicine: Genomic data integrated with EMRs means precise diagnostics and pharmacogenomic indications (which medications will work better in each specific patient).
+• 360º View of the Patient: Radiology and Pathology imaging is only part of the picture in many cases.
+• Genomic data has been, until now, the missing key piece of information in digital records for personalized medicine.
+everis, an NTT Data company, announces a partnership with Kanteron Systems to provide its Next-Generation Electronic Health Record, ehCOS CLINIC, with a robust platform for clinical genomics, key to precise diagnostics and personalized medicine.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems publishes advanced medical image algorithms in IBM Cloud marketplace</title>
+      <link>https://blog.kanteron.com/2014/11/kanteron-systems-publishes-advanced-medical-image-algorithms-in-ibm-cloud-marketplace/</link>
+      <pubDate>Tue, 11 Nov 2014 10:28:09 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2014/11/kanteron-systems-publishes-advanced-medical-image-algorithms-in-ibm-cloud-marketplace/</guid>
+      <description>Kanteron Systems today announced a partnership with IBM that brings the power of Medical Imaging Analysis to the IBM Cloud marketplace. Starting today, IBM clients can integrate very specific tools for medical image processing and analysis into their workflows with the click of a button.
+The first available digital pathology image algorithms perform color separation for Hematoxylin, Eosin and Diaminobenzidine immunohistochemical staining.
+The IBM Cloud marketplace offers client’s access to more than 100 SaaS applications, IBM‘s Bluemix™ platform-as-a-service with its suite of composable services, the powerful SoftLayer infrastructure-as-a-service and IBM‘s rich intellectual capital and deep industry expertise.</description>
+    </item>
+    
+    <item>
+      <title>University Hospital in Bogota updates its Kanteron Systems solution to IBM Pure Flex System</title>
+      <link>https://blog.kanteron.com/2014/11/university-hospital-in-bogota-updates-its-kanteron-systems-solution-to-ibm-pure-flex-system/</link>
+      <pubDate>Mon, 03 Nov 2014 18:54:10 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2014/11/university-hospital-in-bogota-updates-its-kanteron-systems-solution-to-ibm-pure-flex-system/</guid>
+      <description>The University Hospital San Ignacio (HUSI) at the Javeriana University in Bogota (Colombia) has chosen to renew the Kanteron Systems digital medical imaging solution they have been using since 2011.
+This updates the PACS and RIS system to the corresponding modules of the newKanteron Systems TMIS (Translational Medical Imaging System). The new system is being installed in an IBM Pure Flex platform providing HUSI with new features, improved performance and speed, flexibility and unparalleled convenience to provide access to users through a web interface (HTML5) without installing any software (zero-footprint) and accessible from any device (responsive design).</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems participates in consortium to develop 3D implants</title>
+      <link>https://blog.kanteron.com/2014/01/kanteron-systems-participates-in-consortium-to-develop-3d-implants/</link>
+      <pubDate>Mon, 20 Jan 2014 12:54:43 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2014/01/kanteron-systems-participates-in-consortium-to-develop-3d-implants/</guid>
+      <description>A new generation of personalized implants has been designed to compete in time and costs with traditional manufacturing. The project, co-financed by CDTI has achieved excellent results in its initial phases and aims to be the definitive step towards personalized implants.
+The consortium members are: Surgival, AMES, Biotechnology Institute, QuironHospital Group, Kanteron Systems (developing the imaging component); and the research institutes Biomedical Institute of Valencia (IBV), and Metalmechanic Technology Institute (AIMME).</description>
+    </item>
+    
+    <item>
+      <title>Frost &amp;amp; Sullivan on Kanteron Systems’ latest innovation: “WOW!”</title>
+      <link>https://blog.kanteron.com/2013/12/frost-amp-sullivan-on-kanteron-systems-latest-innovation-wow/</link>
+      <pubDate>Tue, 10 Dec 2013 22:38:39 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2013/12/frost-amp-sullivan-on-kanteron-systems-latest-innovation-wow/</guid>
+      <description>Frost &amp;amp; Sullivanprofiles Kanteron Systems in the “WOW!” section of their latest Medical Imaging and Imaging Informatics report.
+Global growth consulting firm Frost &amp;amp; Sullivan, which provides market research and analysis for the Healthcare Industry (amongst others), published today the report “RSNA 2013 Review: Scouting the Showfloor for the Latest-Greatest in Medical Imaging and Imaging Informatics”. In the report’s “Select WOW! Findings from the Showfloor” section, Nadim Michel Daher, Principal Analyst – Medical Imaging and Imaging Informatics, and Siddharth Saha, Global Program Leader Advanced MedTech, identify six companies with disruptive innovations in Medical Imaging and Imaging Informatics.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems introduces the first Translational PACS-VNA in the world at RSNA 2013</title>
+      <link>https://blog.kanteron.com/2013/11/kanteron-systems-introduces-the-first-translational-pacs-vna-in-the-world-at-rsna-2013/</link>
+      <pubDate>Thu, 28 Nov 2013 00:12:16 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2013/11/kanteron-systems-introduces-the-first-translational-pacs-vna-in-the-world-at-rsna-2013/</guid>
+      <description>PRESS RELEASE First Translational Medical Imaging System in the World New York, NY, USA, November 27, 2013
+ Kanteron Systems will launch the world‘s first Translational Medical Imaging System (“TMIS”) at the Radiology Society of North America (“RSNA”) annual meeting in Chicago, December 1-5, 2013. TMIS is a fully integrated solution for radiology, genetic and pathology workflows that could change the way medicine is practiced.
+ Translational research is an emerging field that aims to provide a better understanding of the molecular basis of disease, which in turn will inform clinical practice and ultimately improve human health.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems participats in Siapec Rome</title>
+      <link>https://blog.kanteron.com/2013/10/kanteron-systems-participats-in-siapec-rome/</link>
+      <pubDate>Mon, 14 Oct 2013 18:10:53 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2013/10/kanteron-systems-participats-in-siapec-rome/</guid>
+      <description>Kanteron Systems, along with our new partner NoemaLife, participated in the 6th triennal Siapec(Italian Society for Anatomic Pathology and Cytopathology Diagnostic – Italian Division of the International Academy of Pathology) congressheld at the Hotel Ergife Palace in Rome October 26-30, 2013, where we will presented Noemalife Athenapowered by Kanteron.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron and DigiPath Collaboration Expands Digital Pathology into EHR &amp;amp; PACS Markets</title>
+      <link>https://blog.kanteron.com/2013/06/kanteron-and-digipath-collaboration-expands-digital-pathology-into-ehr-amp-pacs-markets/</link>
+      <pubDate>Wed, 26 Jun 2013 20:21:40 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2013/06/kanteron-and-digipath-collaboration-expands-digital-pathology-into-ehr-amp-pacs-markets/</guid>
+      <description>PRESS RELEASE
+Kanteron and DigiPath Collaboration Expands Digital Pathology into EHR &amp;amp; PACS Markets
+Kanteron Systems and DigiPath, Inc. (OTCBB: DIGP) today announce they have entered in a Joint Selling &amp;amp; Marketing Agreement to shared resources and implement a fully integrated digital pathology &amp;amp; radiology solution.
+Kanteron’s KMIIS, a cutting-edge hospital information system, simplifies the management of radiology and pathology within hospital networks. The solution is fully interoperable with PACS-Vendor Neutral Archive, EHR, RIS, and LIS via standards-compliant protocols (like DICOM and HL7).</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems develops new Hanging Protocols Plug-In for OsirixMD</title>
+      <link>https://blog.kanteron.com/2013/03/kanteron-systems-develops-new-hanging-protocols-plug-in-for-osirixmd/</link>
+      <pubDate>Thu, 14 Mar 2013 23:18:50 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2013/03/kanteron-systems-develops-new-hanging-protocols-plug-in-for-osirixmd/</guid>
+      <description>The new OsirixMD plug-indeveloped by Kanteron Systems allows you to apply a personalized Hanging Protocol based on very configurable specific parameters (any DICOM tag).</description>
+    </item>
+    
+    <item>
+      <title>Online demo of Kanteron Systems digital pathology image (WSI) viewer</title>
+      <link>https://blog.kanteron.com/2012/07/online-demo-of-kanteron-systems-digital-pathology-image-wsi-viewer/</link>
+      <pubDate>Sat, 21 Jul 2012 17:08:12 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2012/07/online-demo-of-kanteron-systems-digital-pathology-image-wsi-viewer/</guid>
+      <description>Kanteron Systems introduces an online demo to try the speed of our digital pathology image (Whole Slide Image) viewer: https://pathoarchive.kanteron.com/As you try it, keep in mind there might be thousands of concurrent users, your bandwidth may be limited, and most important: you will be browsing 2 to 6 GIGABYTE images (from different scanner manufacturers and formats, DICOM ready)&amp;hellip; in real time!! with a zero footprint viewer (no need to install any additional software).</description>
+    </item>
+    
+    <item>
+      <title>Updated Kanteron WEB-RIS (optimized for mobile)</title>
+      <link>https://blog.kanteron.com/2012/05/updated-kanteron-web-ris-optimized-for-mobile/</link>
+      <pubDate>Tue, 08 May 2012 16:54:26 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2012/05/updated-kanteron-web-ris-optimized-for-mobile/</guid>
+      <description>Kanteron Systems is proud to announce the new version of our Web-RIS, with a completely redesigned interface, optimized for mobile devices (rotation, finger input, etc), while remaining 100% web standard and accesible via web browser.</description>
+    </item>
+    
+    <item>
+      <title>La Ribera Hospital chosen as &#34;model&#34; by European Union, orders more systems from Kanteron</title>
+      <link>https://blog.kanteron.com/2012/04/la-ribera-hospital-chosen-as-model-by-european-union-orders-more-systems-from-kanteron/</link>
+      <pubDate>Tue, 03 Apr 2012 05:10:30 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2012/04/la-ribera-hospital-chosen-as-model-by-european-union-orders-more-systems-from-kanteron/</guid>
+      <description>La Ribera University Hospital (Spain) has been chosen along with other 3 European healthcare institutions, as basis for the report titled “Healthcare of the Future”. This has been approved by the European Commissioner for Health and Consumer Policy, John Dalli and La Ribera University Hospital managers, in a meeting in Paris. The report is written by the European Union Directorate General for Health and Consumer Policy in collaboration with COCIR (European Coordination Commitee of the Radiological, Electromedical and Heathcare IT Industry), group that includes some of the main healthcare tech companies in the world.</description>
+    </item>
+    
+    <item>
+      <title>New KDS-Osirix plug-in to apply &#34;curved CLUTs&#34; (sigmoidal or S-shaped)</title>
+      <link>https://blog.kanteron.com/2012/03/new-kds-osirix-plug-in-to-apply-curved-cluts-sigmoidal-or-s-shaped/</link>
+      <pubDate>Sat, 17 Mar 2012 15:49:21 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2012/03/new-kds-osirix-plug-in-to-apply-curved-cluts-sigmoidal-or-s-shaped/</guid>
+      <description>Kanteron Systems introduces a new KDS-Osirix plug-in that allows the user to easily apply &amp;ldquo;curved CLUTs&amp;rdquo; (sigmoidal or S-shaped) to DICOM digital medical images (particularly X-rays) to enhance their contrast in an advanced way.</description>
+    </item>
+    
+    <item>
+      <title>Customer oriented development</title>
+      <link>https://blog.kanteron.com/2012/01/customer-oriented-development/</link>
+      <pubDate>Sat, 07 Jan 2012 15:43:34 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2012/01/customer-oriented-development/</guid>
+      <description>At Kanteron Systems we pride ourselves in focusing our development efforts in what our customers need, what our customers like, what our customers could have&amp;hellip; and to do it fast!
+Examples range from the one-week development and testing time of the &amp;ldquo;Review previous studies from the same patient&amp;rdquo; one-button new functionality in KDS, to the &amp;ldquo;custom color look-up tables to offset deficiencies and particularities in a specific modality&amp;rdquo;, or the DICOM Structured Report web tool.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems will develop software for security company Fermax</title>
+      <link>https://blog.kanteron.com/2011/10/kanteron-systems-will-develop-software-for-security-company-fermax/</link>
+      <pubDate>Mon, 03 Oct 2011 08:06:45 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2011/10/kanteron-systems-will-develop-software-for-security-company-fermax/</guid>
+      <description>The international security and residential communications company Fermaxhas chosen Kanteron Systems to develop the new access control management software for their fingerprint reader and proximity sensor.
+With this contract, Kanteron Systems shows once again the capacity of its programmers to meet development needs of the most demanding software, and opens a new business line in the competitive and challenging world of electronic security.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems introduces big-data solution HDI</title>
+      <link>https://blog.kanteron.com/2011/09/kanteron-systems-introduces-big-data-solution-hdi/</link>
+      <pubDate>Mon, 26 Sep 2011 12:07:06 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2011/09/kanteron-systems-introduces-big-data-solution-hdi/</guid>
+      <description>Kanteron Systems introduces a ground-breaking new solution: HDI (Hospital Data Intelligence).</description>
+    </item>
+    
+    <item>
+      <title>KDS translated into Catalan-Valencian among other languages</title>
+      <link>https://blog.kanteron.com/2011/08/kds-translated-into-catalan-valencian-among-other-languages/</link>
+      <pubDate>Tue, 23 Aug 2011 17:35:10 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2011/08/kds-translated-into-catalan-valencian-among-other-languages/</guid>
+      <description>Kanteron Systems is proud to offer KDS in Catalan-Valencian language (along with many others, such as English, Spanish, Italian, French, Japanese, Arabic&amp;hellip;).</description>
+    </item>
+    
+    <item>
+      <title>New KDS version 3.93</title>
+      <link>https://blog.kanteron.com/2011/08/new-kds-version-3.93/</link>
+      <pubDate>Thu, 11 Aug 2011 10:19:34 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2011/08/new-kds-version-3.93/</guid>
+      <description>Main improvements (most &amp;ldquo;under the hood&amp;rdquo; to improve performance, stability and simplicity):
+ PURE 64 BIT. KDS does not contain a single bit of 32 bit code any more. In fact, the program takes up very little room in the hard disk. It is lightweight, efficient, and fast (even much faster than OsiriX), because it has been developed with the latest development and code optimization tools from Apple (LLVM). NEW PLUG-IN MANAGEMENT.</description>
+    </item>
+    
+  </channel>
+</rss>

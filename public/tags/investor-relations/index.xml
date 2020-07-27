@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>investor relations on Kanteron Systems Blog</title>
+    <link>https://blog.kanteron.com/tags/investor-relations/</link>
+    <description>Recent content in investor relations on Kanteron Systems Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 00:14:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.kanteron.com/tags/investor-relations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Investor Relations app</title>
+      <link>https://blog.kanteron.com/2019/05/new-investor-relations-app/</link>
+      <pubDate>Wed, 01 May 2019 00:14:57 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2019/05/new-investor-relations-app/</guid>
+      <description>&lt;p&gt;After raising $2.3M in a PPL (Profit Participation Loan), Kanteron Systems launches its own Investors Relations app to manage up to date information exchange.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

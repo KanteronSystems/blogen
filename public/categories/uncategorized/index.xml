@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on Kanteron Systems Blog</title>
+    <link>https://blog.kanteron.com/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on Kanteron Systems Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Mar 2015 22:43:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.kanteron.com/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kanteron Systems finalist in IBM Innovation Award</title>
+      <link>https://blog.kanteron.com/2015/03/kanteron-systems-finalist-in-ibm-innovation-award/</link>
+      <pubDate>Mon, 09 Mar 2015 22:43:25 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2015/03/kanteron-systems-finalist-in-ibm-innovation-award/</guid>
+      <description>Kanteron Systems has been selected as finalist, along with British Telecom and nusys, in the IBM Innovation Awards, New Business Model category, for our Split and Pathology Imaging Algorithms solutions. The award, finally won by nusys (congratulations!) was presented at the IBM Leadership Summitthat took place at the Royal Spanish Academy in Madrid (Spain), March 3rd, 2015.
+  According to IBM, this nomination celebrates Kanteron Systems as pioneers in the development of solutions for the healthcare environment and visionaries in new technologies and business models in cloud and Watson Cognitive Computing.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems successfully passes another ISO 9001 audit</title>
+      <link>https://blog.kanteron.com/2014/05/kanteron-systems-successfully-passes-another-iso-9001-audit/</link>
+      <pubDate>Thu, 15 May 2014 18:50:46 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2014/05/kanteron-systems-successfully-passes-another-iso-9001-audit/</guid>
+      <description>Since we first received our ISO 9001 quality certification in 2008, we have always passed audits. Since 2012, we have passed them with ZERO non-conformities. But in a clear sign of continuous improvement, this year the auditor‘s report reads:
+ The quality management system has been implemented and maintained quite successfully at Kanteron Systems, showing a positive evolution since last year.
+ He also recommends us to be included in the Excellence recognition.</description>
+    </item>
+    
+    <item>
+      <title>From Top 50 to Top 10 in a week! Kanteron Systems ranked in Top 10 (Healthcare) for Web Traffic Rank Growth</title>
+      <link>https://blog.kanteron.com/2014/02/from-top-50-to-top-10-in-a-week-kanteron-systems-ranked-in-top-10-healthcare-for-web-traffic-rank-growth/</link>
+      <pubDate>Fri, 28 Feb 2014 16:01:24 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2014/02/from-top-50-to-top-10-in-a-week-kanteron-systems-ranked-in-top-10-healthcare-for-web-traffic-rank-growth/</guid>
+      <description>Kanteron Systems ranked in Top 50 for Web Traffic Rank Growth according to new ranking company SIGNL.
+Rank: #9 of 2,436 Health Care Methodology: SIGNL’s algorithm analyzes millions of data points including web/mobile traffic, social buzz, company growth, and more to identify companies with the highest momentum.
+Kanteron Systems, following the stellar presentation of TMIS at RSNAChicago, is experiencing incredible momentum with the anticipated new product developments introduced at HIMSSOrlando (Genomics + Pharmacogenomics + Activity and Sleep Trackers + Analytics) as third party vendor independent PACS-VNA-EMR add-on plug-ins.</description>
+    </item>
+    
+    <item>
+      <title>New Kanteron Osirix-KDS plug in for action logging (user management and auditing)</title>
+      <link>https://blog.kanteron.com/2012/07/new-kanteron-osirix-kds-plug-in-for-action-logging-user-management-and-auditing/</link>
+      <pubDate>Fri, 20 Jul 2012 16:26:52 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2012/07/new-kanteron-osirix-kds-plug-in-for-action-logging-user-management-and-auditing/</guid>
+      <description>Kanteron Systems introduces a new plug-in for Osirix-KDS that allows, with a very simple interface, actions logging (ideal for user management and auditing).
+Have you ever needed to find which user / when / did what? From law enforcement requests, to scientific research (and drug discovery), to productivity enhancement, this plug-in provides you with the information you need in an easy to read manner.
+Should you beinterested in purchasing it, or need more information, please do not hesitate to contact us: info@kanteron.</description>
+    </item>
+    
+    <item>
+      <title>FDA Safety and Innovation Act (FDASIA)</title>
+      <link>https://blog.kanteron.com/2012/07/fda-safety-and-innovation-act-fdasia/</link>
+      <pubDate>Mon, 09 Jul 2012 18:12:19 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2012/07/fda-safety-and-innovation-act-fdasia/</guid>
+      <description>Today President Obama signed the FDA Safety and Innovation Act (FDASIA). This law includes the Medical Device User Fee Amendments of 2012 (MDUFA III) as well as other medical device provisions. MDUFA III will be in effect for five years beginning October 1, 2012. It includes performance goals and user fees paid to the Food and Drug Administration (FDA) by medical device companies when they register and list with the FDA and when they submit an application to market a medical device in the U.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems donates free DICOM CloudApp plug-in for Osirix</title>
+      <link>https://blog.kanteron.com/2011/07/kanteron-systems-donates-free-dicom-cloudapp-plug-in-for-osirix/</link>
+      <pubDate>Sat, 30 Jul 2011 22:27:41 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2011/07/kanteron-systems-donates-free-dicom-cloudapp-plug-in-for-osirix/</guid>
+      <description>Kanteron Systems is proud to announce the release of the CloudApp plug-in for Osirix and is making it available to the whole Osirix community for free.
+The ever-growing involvement of Kanteron Systems with Free and Open Source healthcare projects like Osirix goes beyond being the largest (&amp;ldquo;Diamond&amp;rdquo;) Sponsors and involves coding, developing, from bug-detection and solution, to code improvement (such as increased AppleScript interoperability) to contributions both inside Osirix and externally such as this plug-in.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems‘ 2010 financial report clears audit</title>
+      <link>https://blog.kanteron.com/2011/06/kanteron-systems-2010-financial-report-clears-audit/</link>
+      <pubDate>Fri, 10 Jun 2011 15:11:23 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2011/06/kanteron-systems-2010-financial-report-clears-audit/</guid>
+      <description>Kanteron Systems‘ 2010 financial report clears audit without a single negative comment. Auditor: S-1577.</description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems invited to Tech Ventures Conference – U. of Cambridge</title>
+      <link>https://blog.kanteron.com/2011/05/kanteron-systems-invited-to-tech-ventures-conference-u.-of-cambridge/</link>
+      <pubDate>Mon, 09 May 2011 17:25:48 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2011/05/kanteron-systems-invited-to-tech-ventures-conference-u.-of-cambridge/</guid>
+      <description>Kanteron Systems has been invited to participate in:
+Technology Ventures Conference 2011
+Ideas Economy: Changing the World by Connecting Ideas
+9th of June 2011 – Cambridge Union, Cambridge, UK
+Hosted by The Cambridge University Technology and Enterprise Club to enhance the entrepreneurial spirit amongst academics and students, by facilitating interaction between industry experts and students. Investors and the industries that support them in turn gain access to the vibrant research and entrepreneurial communities at the University of Cambridge.</description>
+    </item>
+    
+    <item>
+      <title>Wishing well to Japan</title>
+      <link>https://blog.kanteron.com/2011/03/wishing-well-to-japan/</link>
+      <pubDate>Mon, 14 Mar 2011 09:05:40 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2011/03/wishing-well-to-japan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kanteron Systems nominated for the 2011 European Business Awards</title>
+      <link>https://blog.kanteron.com/2011/02/kanteron-systems-nominated-for-the-2011-european-business-awards/</link>
+      <pubDate>Mon, 28 Feb 2011 19:11:59 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2011/02/kanteron-systems-nominated-for-the-2011-european-business-awards/</guid>
+      <description>We are pleased and honored to announce that Kanteron Systems has been selected for inclusion in the European Business Awards.
+Every year the European Business Awards research team spend six months analysing over 15,000 companies across Europe to seek out the very best businesses that demonstrate the guiding principles of the Awards:
+· Commercial success
+· Innovation
+· Business ethics
+The award nomination research team &amp;ldquo;were particularly impressed with the success Jorge Cortell has had in leading and driving Kanteron Systems and the impact this has had across the business, having won the 4th Edition of Premio Emprendedor XXI.</description>
+    </item>
+    
+  </channel>
+</rss>

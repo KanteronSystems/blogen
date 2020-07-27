@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>team on Kanteron Systems Blog</title>
+    <link>https://blog.kanteron.com/tags/team/</link>
+    <description>Recent content in team on Kanteron Systems Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2017 18:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://blog.kanteron.com/tags/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IBM Watson Health Imaging Asia-Pacific Director joins Kanteron</title>
+      <link>https://blog.kanteron.com/2017/11/ibm-watson-health-imaging-asia-pacific-director-joins-kanteron/</link>
+      <pubDate>Wed, 01 Nov 2017 18:54:24 +0200</pubDate>
+      
+      <guid>https://blog.kanteron.com/2017/11/ibm-watson-health-imaging-asia-pacific-director-joins-kanteron/</guid>
+      <description>&lt;p&gt;Thomas Vargoczky, Director, Asia Pacific - Watson Health Imaging, Merge Healthcare at IBM, joins the Kanteron Systems team to lead expansion in Asia Pacific.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

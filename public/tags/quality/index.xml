@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quality on Kanteron Systems Blog</title>
+    <link>https://blog.kanteron.com/tags/quality/</link>
+    <description>Recent content in quality on Kanteron Systems Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 00:14:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.kanteron.com/tags/quality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kanteron passes ISO 13485 audit</title>
+      <link>https://blog.kanteron.com/2020/04/kanteron-passes-iso-13485-audit/</link>
+      <pubDate>Thu, 09 Apr 2020 00:14:57 +0000</pubDate>
+      
+      <guid>https://blog.kanteron.com/2020/04/kanteron-passes-iso-13485-audit/</guid>
+      <description>&lt;p&gt;Kanteron Systems passed today the &lt;a href=&#34;https://www.iso.org/standard/59752.html&#34;&gt;ISO 13485&lt;/a&gt; audit by Bureau Veritas, receiving the Quality Management System (QMS) ISO 13485 Certification.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
