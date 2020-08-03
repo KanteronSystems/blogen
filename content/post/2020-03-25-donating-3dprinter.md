@@ -20,7 +20,7 @@ Kanteron Systems donated today a 3D printer to help local health authorities pro
 ![RC2](https://media.prusaprinters.org/thumbs/inside/1280x960/media/prints/25857/images/260468_72bc89ab-9ac5-4de4-9078-ee9573ad35d6/main00_00_54_05still004.jpg)
 
 
-The [Civil Protection team in Puçol](https://www.facebook.com/ProteccioCivilPucol) (Spain), one of the unsung heroes fighting to protect all of us in this pandemic, like healthcare workers, police, delivery personnel, supermarket workers... picked up the 3D printer and extra filaments to start producing protective face masks, like [the RC2](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) or the [NanoHack](http://copper3d.com/hackthepandemic/).
+The [Civil Protection team in Puçol](https://www.facebook.com/ProteccioCivilPucol) (Spain), one of the unsung heroes fighting to protect all of us in this pandemic, like healthcare workers, police, delivery personnel, supermarket workers... picked up the 3D printer and extra filaments to start producing protective face masks, like [the RC2](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) or the [NanoHack](https://copper3d.com/hackthepandemic/).
 
 Here are the first 3D printed masks being delivered to local hospitals:
 
