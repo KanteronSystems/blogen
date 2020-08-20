@@ -13,7 +13,7 @@ coverMeta: out
 
 ---
 
-Kanteron Systems donated today a bath of N95 respirators and surgical masks to help local health authorities fight the CoViD-19 pandemic.
+Kanteron Systems donated today a batch of N95 respirators and surgical masks to help local health authorities fight the CoViD-19 pandemic.
 
 <!--more-->
 
