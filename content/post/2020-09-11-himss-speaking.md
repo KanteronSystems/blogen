@@ -1,6 +1,6 @@
 ---
-date: 2020-09-11T00:14:57+00:00
-title: Kanteron Systems CEO to speak at HIMSS
+date: 2020-08-24T00:14:57+00:00
+title: Jorge Cortell, keynote speaker at HIMSS
 tags: ["kanteron", "events"]
 image: "https://www.himss.org/sites/hde/files/styles/header_type_3_logo_xl/public/media/image/2020/07/08/himss20health2.0_logo_europe-digital_white_long_wodate-edit.png"
 comments: true     # set false to hide Disqus comments
@@ -13,7 +13,7 @@ coverMeta: out
 
 ---
 
-Jorge Cortell, Kanteron Systems' CEO, will speak at the [HIMSS general session "Be a Radical Changemaker!"](https://www.himss.org/session-be-radical-changemaker) September 11, 2020.
+Jorge Cortell, Kanteron Systems' CEO, will be a [keynote speaker](https://www.himss.org/speaker-jorge-cortell) at [HIMSS](https://www.himss.org/event-himss-europe-digital), during the [session "Be a Radical Changemaker!"](https://www.himss.org/session-be-radical-changemaker) September 11, 2020.
 
 <!--more-->
 
@@ -23,7 +23,9 @@ HIMSS 20 - Health 2.0 is the leading Healthcare Technology European Conference &
 
 Session Details:
 September 11, 2020
-13:00 - 13:45
+13:00 - 13:45 CEST
 
-Other speakers in this session:
+Jorge will share the session with:
 * Dr. Shafi Ahmed, Surgeon, Digital Health Futurist, Co-founder and Chief Medical Officer of Medical Realities
+* Marianne Larsson, Director of New Industries and Innovation at Innovation Skane
+* Mikael Rinnetmäki, Founder of Sensotrend Oy

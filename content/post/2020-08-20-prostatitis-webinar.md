@@ -1,5 +1,5 @@
 ---
-date: 2020-06-10T00:14:57+00:00
+date: 2020-08-20T00:14:57+00:00
 title: Kanteron Systems partners with China's OCBT and WeDoctor to diagnose and treat prostatitis
 tags: ["kanteron", "events"]
 image: "https://res.cloudinary.com/jcortell/image/upload/v1597952758/Events/ProstitisWebinar.png"

@@ -5,7 +5,7 @@ tags: ["kanteron", "news"]
 image: "https://www.publicdomainpictures.net/pictures/180000/velka/happy-anniversary.jpg"
 comments: true     # set false to hide Disqus comments
 share: true        # set false to share buttons
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 thumbnailImage: https://www.publicdomainpictures.net/pictures/180000/velka/happy-anniversary.jpg
 coverImage: https://www.publicdomainpictures.net/pictures/180000/velka/happy-anniversary.jpg
 metaAlignment: center
@@ -33,4 +33,4 @@ We were watching The Colbert Report, How I met your mother, Star Wars Episode II
 
 As the band of hopeless dreamers and idealists we've always been, we started collaborating with open source healthcare technology projects, developing our own, and learning the hard way that this market is rigged, that selling without connections, a large marketing budget, and a well known brand name, is hard.
 
-But 15 years later, here we are. Against all odds (75% failure vs 25% survival, according to the SBA). And after all those experiments and experiences, we've learned a few lessons. So brace yourselves for another 15 years of break-neck innovation, and challenging the established norms of healthcare IT's oligopoly. Because we're here to turn things upside down, and fight mammoths and dinosaurs, so clinicians and patients can have faster diagnosis and more accurate treatments through better data integration.
+But 15 years later, here we are. Against all odds (75% failure vs 25% survival, according to the SBA). And after all those experiments and experiences, we've learned a few lessons. So brace yourselves for another 15 years of break-neck innovation, and challenging the established norms of Healthcare IT's oligopoly. Because we're here to turn things upside down, and fight mammoths and dinosaurs, so clinicians and patients can have faster diagnosis and more accurate treatments through better data integration.
