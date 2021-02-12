@@ -29,3 +29,5 @@ Jorge will share the session with:
 * Dr. Shafi Ahmed, Surgeon, Digital Health Futurist, Co-founder and Chief Medical Officer of Medical Realities
 * Marianne Larsson, Director of New Industries and Innovation at Innovation Skane
 * Mikael Rinnetmäki, Founder of Sensotrend Oy
+
+Update: You can read a [recap of the session in MobiHealth News](https://www.mobihealthnews.com/news/we-want-everyone-be-radical-changemaker).

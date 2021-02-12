@@ -22,6 +22,7 @@ Organized by the Spanish National Bioinformatics Institute (INB/ELIXIR-ES) and t
 Led by Dr. Pablo Marin, along other members of his team like mathematician Jose M. Juanes Ph.D. (c), data scientist Pedro Pons, and bioinformaticians Rodiel Martinez and Anastasiya Onofriychuk, the 2 scientific posters presented at ECCB2020 are:
 
 ![OpenCGA](https://res.cloudinary.com/jcortell/image/upload/c_scale,w_431/v1599566589/Documents/OpenCGA.png)
+
 ![MGVizCNV](https://res.cloudinary.com/jcortell/image/upload/c_scale,w_431/v1599566589/Documents/MGVizCNV.png)
 
 * [OpenCGA: a scalable and high-performance platform for big data analysis and visualisation in genomics](https://figshare.com/articles/poster/OpenCGA_a_scalable_and_high-performance_platform_for_big_data_analysis_and_visualisation_in_genomics/12895910)
